@@ -1,0 +1,138 @@
+{
+  "TW": {
+    "name": "台灣",
+    "flag": "🇹🇼",
+    "currency": "TWD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/tw/shop/buy-iphone"
+  },
+  "JP": {
+    "name": "日本",
+    "flag": "🇯🇵",
+    "currency": "JPY",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/jp/shop/buy-iphone"
+  },
+  "US": {
+    "name": "美國",
+    "flag": "🇺🇸",
+    "currency": "USD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/shop/buy-iphone"
+  },
+  "HK": {
+    "name": "香港",
+    "flag": "🇭🇰",
+    "currency": "HKD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/hk/shop/buy-iphone"
+  },
+  "SG": {
+    "name": "新加坡",
+    "flag": "🇸🇬",
+    "currency": "SGD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/sg/shop/buy-iphone"
+  },
+  "CN": {
+    "name": "中國",
+    "flag": "🇨🇳",
+    "currency": "CNY",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com.cn/shop/buy-iphone"
+  },
+  "AU": {
+    "name": "澳洲",
+    "flag": "🇦🇺",
+    "currency": "AUD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/au/shop/buy-iphone"
+  },
+  "KR": {
+    "name": "韓國",
+    "flag": "🇰🇷",
+    "currency": "KRW",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/kr/shop/buy-iphone"
+  },
+  "TH": {
+    "name": "泰國",
+    "flag": "🇹🇭",
+    "currency": "THB",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/th/shop/buy-iphone"
+  },
+  "MY": {
+    "name": "馬來西亞",
+    "flag": "🇲🇾",
+    "currency": "MYR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/my/shop/buy-iphone"
+  },
+  "CA": {
+    "name": "加拿大",
+    "flag": "🇨🇦",
+    "currency": "CAD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/ca/shop/buy-iphone"
+  },
+  "GB": {
+    "name": "英國",
+    "flag": "🇬🇧",
+    "currency": "GBP",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/uk/shop/buy-iphone"
+  },
+  "DE": {
+    "name": "德國",
+    "flag": "🇩🇪",
+    "currency": "EUR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/de/shop/buy-iphone"
+  },
+  "FR": {
+    "name": "法國",
+    "flag": "🇫🇷",
+    "currency": "EUR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/fr/shop/buy-iphone"
+  },
+  "AE": {
+    "name": "阿聯酋",
+    "flag": "🇦🇪",
+    "currency": "AED",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/ae/shop/buy-iphone"
+  },
+  "VN": {
+    "name": "越南",
+    "flag": "🇻🇳",
+    "currency": "VND",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/vn/shop/buy-iphone"
+  },
+  "IN": {
+    "name": "印度",
+    "flag": "🇮🇳",
+    "currency": "INR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/in/shop/buy-iphone"
+  }
+}

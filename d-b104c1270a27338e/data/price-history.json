@@ -1,0 +1,3460 @@
+{
+  "updated": "2026-09-11T14:23:39.261Z",
+  "demo": false,
+  "timezone": "Asia/Taipei",
+  "notice": "僅保存成功擷取的 Apple 官方價格；每天每個市場／型號／容量一筆，不補造缺失日期。",
+  "iphone-18-pro": {
+    "256GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 44900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 219800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1199,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 10499,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1899,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 9999,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 2099,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1990000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 48900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 5499,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1749,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1199,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1449,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1479,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 5099,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 38999000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 164900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    },
+    "512GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 51900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 254800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1399,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 12299,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2199,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 11999,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 2499,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 2290000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 56900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 6499,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 2049,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1399,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1699,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1729,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 5949,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 45499000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 189900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    },
+    "1TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 66900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 324800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1799,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 15799,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2799,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 15499,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 3299,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 2890000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 72900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 8499,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 2649,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1799,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 2199,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 2229,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 7649,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 58499000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 239900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    },
+    "2TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 88900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 429800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 2399,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 20999,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 3699,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 20499,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 4499,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 3790000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 96900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 11499,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 3549,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 2399,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 2949,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 2979,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 10199,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 77999000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 314900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    }
+  },
+  "iphone-18-pro-max": {
+    "256GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 49900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 239800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 11499,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2099,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 10999,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 2299,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 2190000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 52900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 5999,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1899,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1599,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1629,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 5499,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 41999000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 179900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    },
+    "512GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 56900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 274800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1499,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 13299,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2399,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 12999,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 2699,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 2490000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 60900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 6999,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 2199,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1499,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1849,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1879,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 6349,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 48499000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 204900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    },
+    "1TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 71900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 344800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1899,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 16799,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2999,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 16499,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 3499,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 3090000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 76900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 8999,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 2799,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1899,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 2349,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 2379,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 8049,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 61499000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 254900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    },
+    "2TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 93900,
+          "checkedAt": "2026-09-11T14:21:32.364Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 449800,
+          "checkedAt": "2026-09-11T14:21:40.543Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-18-pro",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 2499,
+          "checkedAt": "2026-09-11T14:21:47.593Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-18-pro",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 21999,
+          "checkedAt": "2026-09-11T14:21:52.802Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-18-pro",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 3899,
+          "checkedAt": "2026-09-11T14:21:58.668Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-18-pro",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 21499,
+          "checkedAt": "2026-09-11T14:22:06.360Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-18-pro",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 4699,
+          "checkedAt": "2026-09-11T14:22:12.741Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-18-pro",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 3990000,
+          "checkedAt": "2026-09-11T14:22:19.526Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-18-pro",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 100900,
+          "checkedAt": "2026-09-11T14:22:27.165Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-18-pro",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 11999,
+          "checkedAt": "2026-09-11T14:22:36.724Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-18-pro",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 3699,
+          "checkedAt": "2026-09-11T14:22:50.507Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-18-pro",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 2499,
+          "checkedAt": "2026-09-11T14:22:56.408Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-18-pro",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 3099,
+          "checkedAt": "2026-09-11T14:23:03.477Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 3129,
+          "checkedAt": "2026-09-11T14:23:10.463Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-18-pro",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 10599,
+          "checkedAt": "2026-09-11T14:23:16.176Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-18-pro",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 80999000,
+          "checkedAt": "2026-09-11T14:23:22.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-18-pro",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 329900,
+          "checkedAt": "2026-09-11T14:23:34.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-18-pro",
+          "currency": "INR"
+        }
+      ]
+    }
+  },
+  "iphone-duo": {
+    "256GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 74900,
+          "checkedAt": "2026-09-11T14:21:33.275Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-duo",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 364800,
+          "checkedAt": "2026-09-11T14:21:41.664Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1999,
+          "checkedAt": "2026-09-11T14:21:48.365Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 17499,
+          "checkedAt": "2026-09-11T14:21:53.706Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 3099,
+          "checkedAt": "2026-09-11T14:21:59.610Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-duo",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 15999,
+          "checkedAt": "2026-09-11T14:22:07.138Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 3499,
+          "checkedAt": "2026-09-11T14:22:13.647Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-duo",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 3290000,
+          "checkedAt": "2026-09-11T14:22:20.432Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 79900,
+          "checkedAt": "2026-09-11T14:22:29.804Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-duo",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 9499,
+          "checkedAt": "2026-09-11T14:22:37.672Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-duo",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 2999,
+          "checkedAt": "2026-09-11T14:22:51.274Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-duo",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1999,
+          "checkedAt": "2026-09-11T14:22:57.346Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 2299,
+          "checkedAt": "2026-09-11T14:23:04.305Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 2339,
+          "checkedAt": "2026-09-11T14:23:11.332Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 8499,
+          "checkedAt": "2026-09-11T14:23:16.950Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-duo",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 64999000,
+          "checkedAt": "2026-09-11T14:23:24.730Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-duo",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 299900,
+          "checkedAt": "2026-09-11T14:23:34.962Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
+          "currency": "INR"
+        }
+      ]
+    },
+    "512GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 81900,
+          "checkedAt": "2026-09-11T14:21:33.275Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-duo",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 399800,
+          "checkedAt": "2026-09-11T14:21:41.664Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 2199,
+          "checkedAt": "2026-09-11T14:21:48.365Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 19299,
+          "checkedAt": "2026-09-11T14:21:53.706Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 3399,
+          "checkedAt": "2026-09-11T14:21:59.610Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-duo",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 17999,
+          "checkedAt": "2026-09-11T14:22:07.138Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 3899,
+          "checkedAt": "2026-09-11T14:22:13.647Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-duo",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 3590000,
+          "checkedAt": "2026-09-11T14:22:20.432Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 87900,
+          "checkedAt": "2026-09-11T14:22:29.804Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-duo",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 10499,
+          "checkedAt": "2026-09-11T14:22:37.672Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-duo",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 3299,
+          "checkedAt": "2026-09-11T14:22:51.274Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-duo",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 2199,
+          "checkedAt": "2026-09-11T14:22:57.346Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 2549,
+          "checkedAt": "2026-09-11T14:23:04.305Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 2589,
+          "checkedAt": "2026-09-11T14:23:11.332Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 9349,
+          "checkedAt": "2026-09-11T14:23:16.950Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-duo",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 71499000,
+          "checkedAt": "2026-09-11T14:23:24.730Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-duo",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 324900,
+          "checkedAt": "2026-09-11T14:23:34.962Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
+          "currency": "INR"
+        }
+      ]
+    },
+    "1TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 96900,
+          "checkedAt": "2026-09-11T14:21:33.275Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-duo",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 469800,
+          "checkedAt": "2026-09-11T14:21:41.664Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 2599,
+          "checkedAt": "2026-09-11T14:21:48.365Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 22799,
+          "checkedAt": "2026-09-11T14:21:53.706Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 3999,
+          "checkedAt": "2026-09-11T14:21:59.610Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-duo",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 21499,
+          "checkedAt": "2026-09-11T14:22:07.138Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 4699,
+          "checkedAt": "2026-09-11T14:22:13.647Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-duo",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 4190000,
+          "checkedAt": "2026-09-11T14:22:20.432Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 103900,
+          "checkedAt": "2026-09-11T14:22:29.804Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-duo",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 12499,
+          "checkedAt": "2026-09-11T14:22:37.672Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-duo",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 3899,
+          "checkedAt": "2026-09-11T14:22:51.274Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-duo",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 2599,
+          "checkedAt": "2026-09-11T14:22:57.346Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 3049,
+          "checkedAt": "2026-09-11T14:23:04.305Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 3089,
+          "checkedAt": "2026-09-11T14:23:11.332Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 11049,
+          "checkedAt": "2026-09-11T14:23:16.950Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-duo",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 84499000,
+          "checkedAt": "2026-09-11T14:23:24.730Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-duo",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 374900,
+          "checkedAt": "2026-09-11T14:23:34.962Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
+          "currency": "INR"
+        }
+      ]
+    },
+    "2TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 118900,
+          "checkedAt": "2026-09-11T14:21:33.275Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-duo",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 574800,
+          "checkedAt": "2026-09-11T14:21:41.664Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-duo",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 3199,
+          "checkedAt": "2026-09-11T14:21:48.365Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-duo",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 27999,
+          "checkedAt": "2026-09-11T14:21:53.706Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-duo",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 4899,
+          "checkedAt": "2026-09-11T14:21:59.610Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-duo",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 26499,
+          "checkedAt": "2026-09-11T14:22:07.138Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-duo",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 5899,
+          "checkedAt": "2026-09-11T14:22:13.647Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-duo",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 5090000,
+          "checkedAt": "2026-09-11T14:22:20.432Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-duo",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 127900,
+          "checkedAt": "2026-09-11T14:22:29.804Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-duo",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 15499,
+          "checkedAt": "2026-09-11T14:22:37.672Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-duo",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 4799,
+          "checkedAt": "2026-09-11T14:22:51.274Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-duo",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 3199,
+          "checkedAt": "2026-09-11T14:22:57.346Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-duo",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 3799,
+          "checkedAt": "2026-09-11T14:23:04.305Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 3839,
+          "checkedAt": "2026-09-11T14:23:11.332Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-duo",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 13599,
+          "checkedAt": "2026-09-11T14:23:16.950Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-duo",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 103999000,
+          "checkedAt": "2026-09-11T14:23:24.730Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-duo",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 449900,
+          "checkedAt": "2026-09-11T14:23:34.962Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-duo",
+          "currency": "INR"
+        }
+      ]
+    }
+  },
+  "iphone-17": {
+    "256GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 32900,
+          "checkedAt": "2026-09-11T14:21:34.428Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 159800,
+          "checkedAt": "2026-09-11T14:21:43.078Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 929,
+          "checkedAt": "2026-09-11T14:21:49.134Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 7799,
+          "checkedAt": "2026-09-11T14:21:54.542Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1449,
+          "checkedAt": "2026-09-11T14:22:00.618Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-17",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 6799,
+          "checkedAt": "2026-09-11T14:22:07.920Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 1549,
+          "checkedAt": "2026-09-11T14:22:15.089Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1450000,
+          "checkedAt": "2026-09-11T14:22:21.341Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 34900,
+          "checkedAt": "2026-09-11T14:22:30.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-17",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 4299,
+          "checkedAt": "2026-09-11T14:22:41.484Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-17",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:22:52.149Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 899,
+          "checkedAt": "2026-09-11T14:22:58.219Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1099,
+          "checkedAt": "2026-09-11T14:23:05.915Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-17",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1119,
+          "checkedAt": "2026-09-11T14:23:12.594Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-17",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 3799,
+          "checkedAt": "2026-09-11T14:23:17.789Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 28999000,
+          "checkedAt": "2026-09-11T14:23:26.062Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-17",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 99900,
+          "checkedAt": "2026-09-11T14:23:35.826Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-17",
+          "currency": "INR"
+        }
+      ]
+    },
+    "512GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 39900,
+          "checkedAt": "2026-09-11T14:21:34.428Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 194800,
+          "checkedAt": "2026-09-11T14:21:43.078Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-17",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1129,
+          "checkedAt": "2026-09-11T14:21:49.134Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-17",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 9599,
+          "checkedAt": "2026-09-11T14:21:54.542Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-17",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1749,
+          "checkedAt": "2026-09-11T14:22:00.618Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-17",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 8799,
+          "checkedAt": "2026-09-11T14:22:07.920Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-17",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 1949,
+          "checkedAt": "2026-09-11T14:22:15.089Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-17",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1750000,
+          "checkedAt": "2026-09-11T14:22:21.341Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-17",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 42900,
+          "checkedAt": "2026-09-11T14:22:30.710Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-17",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 5299,
+          "checkedAt": "2026-09-11T14:22:41.484Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-17",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1599,
+          "checkedAt": "2026-09-11T14:22:52.149Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-17",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1099,
+          "checkedAt": "2026-09-11T14:22:58.219Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1349,
+          "checkedAt": "2026-09-11T14:23:05.915Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-17",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1369,
+          "checkedAt": "2026-09-11T14:23:12.594Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-17",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 4649,
+          "checkedAt": "2026-09-11T14:23:17.789Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-17",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 35499000,
+          "checkedAt": "2026-09-11T14:23:26.062Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-17",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 124900,
+          "checkedAt": "2026-09-11T14:23:35.826Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-17",
+          "currency": "INR"
+        }
+      ]
+    }
+  },
+  "iphone-17e": {
+    "256GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 25900,
+          "checkedAt": "2026-09-11T14:21:37.433Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17e",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 124800,
+          "checkedAt": "2026-09-11T14:21:45.143Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-17e",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 699,
+          "checkedAt": "2026-09-11T14:21:50.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 5999,
+          "checkedAt": "2026-09-11T14:21:55.472Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-17e",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1099,
+          "checkedAt": "2026-09-11T14:22:02.212Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-17e",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 5299,
+          "checkedAt": "2026-09-11T14:22:09.953Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 1149,
+          "checkedAt": "2026-09-11T14:22:16.199Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-17e",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1150000,
+          "checkedAt": "2026-09-11T14:22:24.268Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-17e",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 26900,
+          "checkedAt": "2026-09-11T14:22:32.792Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-17e",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 3299,
+          "checkedAt": "2026-09-11T14:22:44.285Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-17e",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 999,
+          "checkedAt": "2026-09-11T14:22:53.020Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-17e",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 699,
+          "checkedAt": "2026-09-11T14:22:59.086Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17e",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 849,
+          "checkedAt": "2026-09-11T14:23:07.523Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-17e",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 869,
+          "checkedAt": "2026-09-11T14:23:13.464Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-17e",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 2999,
+          "checkedAt": "2026-09-11T14:23:18.661Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-17e",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 21999000,
+          "checkedAt": "2026-09-11T14:23:28.850Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-17e",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 79900,
+          "checkedAt": "2026-09-11T14:23:36.682Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-17e",
+          "currency": "INR"
+        }
+      ]
+    },
+    "512GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 32900,
+          "checkedAt": "2026-09-11T14:21:37.433Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17e",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 159800,
+          "checkedAt": "2026-09-11T14:21:45.143Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-17e",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 899,
+          "checkedAt": "2026-09-11T14:21:50.098Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-17e",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 7799,
+          "checkedAt": "2026-09-11T14:21:55.472Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-17e",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1399,
+          "checkedAt": "2026-09-11T14:22:02.212Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-17e",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 7299,
+          "checkedAt": "2026-09-11T14:22:09.953Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-17e",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 1549,
+          "checkedAt": "2026-09-11T14:22:16.199Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-17e",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1450000,
+          "checkedAt": "2026-09-11T14:22:24.268Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-17e",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 34900,
+          "checkedAt": "2026-09-11T14:22:32.792Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-17e",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 4299,
+          "checkedAt": "2026-09-11T14:22:44.285Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-17e",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:22:53.020Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-17e",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 899,
+          "checkedAt": "2026-09-11T14:22:59.086Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-17e",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1099,
+          "checkedAt": "2026-09-11T14:23:07.523Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-17e",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1119,
+          "checkedAt": "2026-09-11T14:23:13.464Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-17e",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 3849,
+          "checkedAt": "2026-09-11T14:23:18.661Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-17e",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 28499000,
+          "checkedAt": "2026-09-11T14:23:28.850Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-17e",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 104900,
+          "checkedAt": "2026-09-11T14:23:36.682Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-17e",
+          "currency": "INR"
+        }
+      ]
+    }
+  },
+  "iphone-air": {
+    "256GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 39900,
+          "checkedAt": "2026-09-11T14:21:38.850Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-air",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 189800,
+          "checkedAt": "2026-09-11T14:21:45.911Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-air",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1099,
+          "checkedAt": "2026-09-11T14:21:50.988Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 9499,
+          "checkedAt": "2026-09-11T14:21:56.486Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-air",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1749,
+          "checkedAt": "2026-09-11T14:22:04.368Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-air",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 8799,
+          "checkedAt": "2026-09-11T14:22:11.005Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 1899,
+          "checkedAt": "2026-09-11T14:22:17.217Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-air",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1790000,
+          "checkedAt": "2026-09-11T14:22:25.184Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 43900,
+          "checkedAt": "2026-09-11T14:22:34.888Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-air",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 5299,
+          "checkedAt": "2026-09-11T14:22:47.697Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-air",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1599,
+          "checkedAt": "2026-09-11T14:22:53.891Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-air",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1099,
+          "checkedAt": "2026-09-11T14:23:00.824Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:23:08.766Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-air",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1329,
+          "checkedAt": "2026-09-11T14:23:14.333Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-air",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 4699,
+          "checkedAt": "2026-09-11T14:23:20.532Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 34999000,
+          "checkedAt": "2026-09-11T14:23:29.775Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-air",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 149900,
+          "checkedAt": "2026-09-11T14:23:37.642Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-air",
+          "currency": "INR"
+        }
+      ]
+    },
+    "512GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 46900,
+          "checkedAt": "2026-09-11T14:21:38.850Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-air",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 224800,
+          "checkedAt": "2026-09-11T14:21:45.911Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-air",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:21:50.988Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 11299,
+          "checkedAt": "2026-09-11T14:21:56.486Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-air",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2049,
+          "checkedAt": "2026-09-11T14:22:04.368Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-air",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 10799,
+          "checkedAt": "2026-09-11T14:22:11.005Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 2299,
+          "checkedAt": "2026-09-11T14:22:17.217Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-air",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 2090000,
+          "checkedAt": "2026-09-11T14:22:25.184Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 51900,
+          "checkedAt": "2026-09-11T14:22:34.888Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-air",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 6299,
+          "checkedAt": "2026-09-11T14:22:47.697Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-air",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1899,
+          "checkedAt": "2026-09-11T14:22:53.891Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-air",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1299,
+          "checkedAt": "2026-09-11T14:23:00.824Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 1549,
+          "checkedAt": "2026-09-11T14:23:08.766Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-air",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1579,
+          "checkedAt": "2026-09-11T14:23:14.333Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-air",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 5549,
+          "checkedAt": "2026-09-11T14:23:20.532Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 41499000,
+          "checkedAt": "2026-09-11T14:23:29.775Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-air",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 174900,
+          "checkedAt": "2026-09-11T14:23:37.642Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-air",
+          "currency": "INR"
+        }
+      ]
+    },
+    "1TB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 61900,
+          "checkedAt": "2026-09-11T14:21:38.850Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-air",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 294800,
+          "checkedAt": "2026-09-11T14:21:45.911Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-air",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 1699,
+          "checkedAt": "2026-09-11T14:21:50.988Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-air",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 14799,
+          "checkedAt": "2026-09-11T14:21:56.486Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-air",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 2649,
+          "checkedAt": "2026-09-11T14:22:04.368Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-air",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 14299,
+          "checkedAt": "2026-09-11T14:22:11.005Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-air",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 3099,
+          "checkedAt": "2026-09-11T14:22:17.217Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-air",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 2690000,
+          "checkedAt": "2026-09-11T14:22:25.184Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-air",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 67900,
+          "checkedAt": "2026-09-11T14:22:34.888Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-air",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 8299,
+          "checkedAt": "2026-09-11T14:22:47.697Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-air",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 2499,
+          "checkedAt": "2026-09-11T14:22:53.891Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-air",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 1699,
+          "checkedAt": "2026-09-11T14:23:00.824Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-air",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 2049,
+          "checkedAt": "2026-09-11T14:23:08.766Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-air",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 2079,
+          "checkedAt": "2026-09-11T14:23:14.333Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-air",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 7249,
+          "checkedAt": "2026-09-11T14:23:20.532Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-air",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 54499000,
+          "checkedAt": "2026-09-11T14:23:29.775Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-air",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 224900,
+          "checkedAt": "2026-09-11T14:23:37.642Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-air",
+          "currency": "INR"
+        }
+      ]
+    }
+  },
+  "iphone-16": {
+    "128GB": {
+      "TW": [
+        {
+          "date": "2026-09-11",
+          "price": 29900,
+          "checkedAt": "2026-09-11T14:21:39.762Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-16",
+          "currency": "TWD"
+        }
+      ],
+      "JP": [
+        {
+          "date": "2026-09-11",
+          "price": 139800,
+          "checkedAt": "2026-09-11T14:21:46.811Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/jp/shop/buy-iphone/iphone-16",
+          "currency": "JPY"
+        }
+      ],
+      "US": [
+        {
+          "date": "2026-09-11",
+          "price": 829,
+          "checkedAt": "2026-09-11T14:21:51.852Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/shop/buy-iphone/iphone-16",
+          "currency": "USD"
+        }
+      ],
+      "HK": [
+        {
+          "date": "2026-09-11",
+          "price": 6999,
+          "checkedAt": "2026-09-11T14:21:57.825Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/hk/shop/buy-iphone/iphone-16",
+          "currency": "HKD"
+        }
+      ],
+      "SG": [
+        {
+          "date": "2026-09-11",
+          "price": 1249,
+          "checkedAt": "2026-09-11T14:22:05.274Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/sg/shop/buy-iphone/iphone-16",
+          "currency": "SGD"
+        }
+      ],
+      "CN": [
+        {
+          "date": "2026-09-11",
+          "price": 5999,
+          "checkedAt": "2026-09-11T14:22:11.776Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com.cn/shop/buy-iphone/iphone-16",
+          "currency": "CNY"
+        }
+      ],
+      "AU": [
+        {
+          "date": "2026-09-11",
+          "price": 1349,
+          "checkedAt": "2026-09-11T14:22:18.126Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/au/shop/buy-iphone/iphone-16",
+          "currency": "AUD"
+        }
+      ],
+      "KR": [
+        {
+          "date": "2026-09-11",
+          "price": 1290000,
+          "checkedAt": "2026-09-11T14:22:26.244Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/kr/shop/buy-iphone/iphone-16",
+          "currency": "KRW"
+        }
+      ],
+      "TH": [
+        {
+          "date": "2026-09-11",
+          "price": 30900,
+          "checkedAt": "2026-09-11T14:22:35.807Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/th/shop/buy-iphone/iphone-16",
+          "currency": "THB"
+        }
+      ],
+      "MY": [
+        {
+          "date": "2026-09-11",
+          "price": 3799,
+          "checkedAt": "2026-09-11T14:22:49.534Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/my/shop/buy-iphone/iphone-16",
+          "currency": "MYR"
+        }
+      ],
+      "CA": [
+        {
+          "date": "2026-09-11",
+          "price": 1149,
+          "checkedAt": "2026-09-11T14:22:55.570Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ca/shop/buy-iphone/iphone-16",
+          "currency": "CAD"
+        }
+      ],
+      "GB": [
+        {
+          "date": "2026-09-11",
+          "price": 799,
+          "checkedAt": "2026-09-11T14:23:02.611Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/uk/shop/buy-iphone/iphone-16",
+          "currency": "GBP"
+        }
+      ],
+      "DE": [
+        {
+          "date": "2026-09-11",
+          "price": 999,
+          "checkedAt": "2026-09-11T14:23:09.598Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/de/shop/buy-iphone/iphone-16",
+          "currency": "EUR"
+        }
+      ],
+      "FR": [
+        {
+          "date": "2026-09-11",
+          "price": 1019,
+          "checkedAt": "2026-09-11T14:23:15.197Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/fr/shop/buy-iphone/iphone-16",
+          "currency": "EUR"
+        }
+      ],
+      "AE": [
+        {
+          "date": "2026-09-11",
+          "price": 3399,
+          "checkedAt": "2026-09-11T14:23:21.396Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/ae/shop/buy-iphone/iphone-16",
+          "currency": "AED"
+        }
+      ],
+      "VN": [
+        {
+          "date": "2026-09-11",
+          "price": 24999000,
+          "checkedAt": "2026-09-11T14:23:33.229Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/vn/shop/buy-iphone/iphone-16",
+          "currency": "VND"
+        }
+      ],
+      "IN": [
+        {
+          "date": "2026-09-11",
+          "price": 89900,
+          "checkedAt": "2026-09-11T14:23:38.511Z",
+          "source": "apple",
+          "sourceUrl": "https://www.apple.com/in/shop/buy-iphone/iphone-16",
+          "currency": "INR"
+        }
+      ]
+    }
+  }
+}

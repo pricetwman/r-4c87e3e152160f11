@@ -1,0 +1,104 @@
+name: Update Apple prices daily
+
+on:
+  schedule:
+    # UTC 20:20 = next-day Asia/Taipei 04:20; GitHub may delay scheduled jobs.
+    - cron: '20 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: apple-price-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.ref == format('refs/heads/{0}', github.event.repository.default_branch)
+    runs-on: ubuntu-latest
+    # 102 serial Apple pages with backoff/batch pauses plus 15 FX pairs: allow up to 260 minutes.
+    timeout-minutes: 280
+    permissions:
+      contents: write
+    outputs:
+      collection: ${{ steps.collect.outcome }}
+      exchange: ${{ steps.exchange.outcome }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          fetch-depth: 0
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - name: Test price and exchange-rate collectors
+        working-directory: d-b104c1270a27338e
+        run: node --test --experimental-test-coverage scripts/tests/*.test.mjs
+      - name: Collect official prices in paced batches
+        id: collect
+        continue-on-error: true
+        working-directory: d-b104c1270a27338e
+        run: node scripts/update-prices.mjs --report ../update-report.json
+      - name: Update reference exchange rates and actual history
+        id: exchange
+        continue-on-error: true
+        working-directory: d-b104c1270a27338e
+        run: node scripts/update-exchange-rates.mjs --report ../exchange-report.json
+      - name: Verify output files and report
+        run: |
+          test -f update-report.json
+          test -f exchange-report.json
+          node -e "for (const name of ['prices', 'price-history', 'exchange-rates', 'exchange-history']) { const d=JSON.parse(require('fs').readFileSync('d-b104c1270a27338e/data/' + name + '.json')); if(d.demo !== false) throw new Error('Refusing to publish demo data'); }"
+      - name: Save observations to the default branch
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add d-b104c1270a27338e/data/prices.json d-b104c1270a27338e/data/price-history.json d-b104c1270a27338e/data/exchange-rates.json d-b104c1270a27338e/data/exchange-history.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: update Apple prices, reference exchange rates and history'
+            # Abort on conflicting concurrent changes; never overwrite remote data.
+            git pull --rebase origin "$DEFAULT_BRANCH"
+            git push origin "HEAD:$DEFAULT_BRANCH"
+          fi
+      - name: Record update report
+        if: always()
+        run: |
+          if test -f update-report.json; then
+            printf '### Apple price collection report\n\n```json\n' >> "$GITHUB_STEP_SUMMARY"
+            cat update-report.json >> "$GITHUB_STEP_SUMMARY"
+            printf '\n```\n' >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if test -f exchange-report.json; then
+            printf '### Reference exchange rate report\n\n```json\n' >> "$GITHUB_STEP_SUMMARY"
+            cat exchange-report.json >> "$GITHUB_STEP_SUMMARY"
+            printf '\n```\n' >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Preserve reports for administrator notifications
+        if: always()
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
+        with:
+          name: update-reports-${{ github.run_attempt }}
+          path: |
+            update-report.json
+            exchange-report.json
+          if-no-files-found: warn
+          retention-days: 14
+  collection-status:
+    needs: update
+    if: always() && needs.update.result == 'success'
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - name: Flag partial or failed collection after saving safe results
+        env:
+          COLLECTION_OUTCOME: ${{ needs.update.outputs.collection }}
+          EXCHANGE_OUTCOME: ${{ needs.update.outputs.exchange }}
+        run: |
+          if test "$COLLECTION_OUTCOME" != 'success' || test "$EXCHANGE_OUTCOME" != 'success'; then
+            echo '::error::Some Apple prices or exchange rates could not be verified. Saved data identifies unavailable or stale values; see the update reports.'
+            exit 1
+          fi

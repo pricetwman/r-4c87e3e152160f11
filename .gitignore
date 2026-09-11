@@ -1,0 +1,9 @@
+.DS_Store
+_site/
+update-report.json
+exchange-report.json
+dist/
+
+# Local website, deployment tooling and docs are never published here.
+/iphone-price/
+/d-b104c1270a27338e/data/*.tmp

@@ -1,0 +1,2030 @@
+{
+  "capturedAt": "2026-09-11T13:18:20.964Z",
+  "description": "Public Apple metrics excerpts; two color SKUs per capacity where available, no executable page scripts.",
+  "pages": [
+    {
+      "market": {
+        "code": "KR",
+        "currency": "KRW",
+        "base": "https://www.apple.com/kr/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "KRW",
+        "products": [
+          {
+            "sku": "MJRP4",
+            "partNumber": "MJRP4KH/A",
+            "price": {
+              "fullPrice": 1990000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Black"
+          },
+          {
+            "sku": "MJRT4",
+            "partNumber": "MJRT4KH/A",
+            "price": {
+              "fullPrice": 1990000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJRW4",
+            "partNumber": "MJRW4KH/A",
+            "price": {
+              "fullPrice": 2290000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Burgundy"
+          },
+          {
+            "sku": "MJRX4",
+            "partNumber": "MJRX4KH/A",
+            "price": {
+              "fullPrice": 2290000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Glacier"
+          },
+          {
+            "sku": "MJRY4",
+            "partNumber": "MJRY4KH/A",
+            "price": {
+              "fullPrice": 2890000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJT24",
+            "partNumber": "MJT24KH/A",
+            "price": {
+              "fullPrice": 2890000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Glacier"
+          },
+          {
+            "sku": "MJT34",
+            "partNumber": "MJT34KH/A",
+            "price": {
+              "fullPrice": 3790000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJT64",
+            "partNumber": "MJT64KH/A",
+            "price": {
+              "fullPrice": 3790000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Glacier"
+          },
+          {
+            "sku": "MJXP4",
+            "partNumber": "MJXP4KH/A",
+            "price": {
+              "fullPrice": 2190000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXN4",
+            "partNumber": "MJXN4KH/A",
+            "price": {
+              "fullPrice": 2190000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Black"
+          },
+          {
+            "sku": "MJXT4",
+            "partNumber": "MJXT4KH/A",
+            "price": {
+              "fullPrice": 2490000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXW4",
+            "partNumber": "MJXW4KH/A",
+            "price": {
+              "fullPrice": 2490000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJY04",
+            "partNumber": "MJY04KH/A",
+            "price": {
+              "fullPrice": 3090000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJY14",
+            "partNumber": "MJY14KH/A",
+            "price": {
+              "fullPrice": 3090000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Glacier"
+          },
+          {
+            "sku": "MJY54",
+            "partNumber": "MJY54KH/A",
+            "price": {
+              "fullPrice": 3990000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Glacier"
+          },
+          {
+            "sku": "MJY44",
+            "partNumber": "MJY44KH/A",
+            "price": {
+              "fullPrice": 3990000
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Burgundy"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "KR",
+        "currency": "KRW",
+        "base": "https://www.apple.com/kr/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "KRW",
+        "products": [
+          {
+            "sku": "MK2D4",
+            "partNumber": "MK2D4KH/A",
+            "price": {
+              "fullPrice": 3290000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK2E4",
+            "partNumber": "MK2E4KH/A",
+            "price": {
+              "fullPrice": 3290000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK2F4",
+            "partNumber": "MK2F4KH/A",
+            "price": {
+              "fullPrice": 3590000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK2G4",
+            "partNumber": "MK2G4KH/A",
+            "price": {
+              "fullPrice": 3590000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK2H4",
+            "partNumber": "MK2H4KH/A",
+            "price": {
+              "fullPrice": 4190000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK2J4",
+            "partNumber": "MK2J4KH/A",
+            "price": {
+              "fullPrice": 4190000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2K4",
+            "partNumber": "MK2K4KH/A",
+            "price": {
+              "fullPrice": 5090000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2L4",
+            "partNumber": "MK2L4KH/A",
+            "price": {
+              "fullPrice": 5090000
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "TH",
+        "currency": "THB",
+        "base": "https://www.apple.com/th/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "THB",
+        "products": [
+          {
+            "sku": "MJRP4",
+            "partNumber": "MJRP4ZP/A",
+            "price": {
+              "fullPrice": 48900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Black"
+          },
+          {
+            "sku": "MJRT4",
+            "partNumber": "MJRT4ZP/A",
+            "price": {
+              "fullPrice": 48900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJRW4",
+            "partNumber": "MJRW4ZP/A",
+            "price": {
+              "fullPrice": 56900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Burgundy"
+          },
+          {
+            "sku": "MJRX4",
+            "partNumber": "MJRX4ZP/A",
+            "price": {
+              "fullPrice": 56900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Glacier"
+          },
+          {
+            "sku": "MJRY4",
+            "partNumber": "MJRY4ZP/A",
+            "price": {
+              "fullPrice": 72900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJT24",
+            "partNumber": "MJT24ZP/A",
+            "price": {
+              "fullPrice": 72900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Glacier"
+          },
+          {
+            "sku": "MJT34",
+            "partNumber": "MJT34ZP/A",
+            "price": {
+              "fullPrice": 96900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJT64",
+            "partNumber": "MJT64ZP/A",
+            "price": {
+              "fullPrice": 96900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Glacier"
+          },
+          {
+            "sku": "MJXP4",
+            "partNumber": "MJXP4ZP/A",
+            "price": {
+              "fullPrice": 52900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXN4",
+            "partNumber": "MJXN4ZP/A",
+            "price": {
+              "fullPrice": 52900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Black"
+          },
+          {
+            "sku": "MJXT4",
+            "partNumber": "MJXT4ZP/A",
+            "price": {
+              "fullPrice": 60900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXW4",
+            "partNumber": "MJXW4ZP/A",
+            "price": {
+              "fullPrice": 60900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJY04",
+            "partNumber": "MJY04ZP/A",
+            "price": {
+              "fullPrice": 76900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJY14",
+            "partNumber": "MJY14ZP/A",
+            "price": {
+              "fullPrice": 76900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Glacier"
+          },
+          {
+            "sku": "MJY54",
+            "partNumber": "MJY54ZP/A",
+            "price": {
+              "fullPrice": 100900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Glacier"
+          },
+          {
+            "sku": "MJY44",
+            "partNumber": "MJY44ZP/A",
+            "price": {
+              "fullPrice": 100900
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Burgundy"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "TH",
+        "currency": "THB",
+        "base": "https://www.apple.com/th/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "THB",
+        "products": [
+          {
+            "sku": "MK2D4",
+            "partNumber": "MK2D4ZP/A",
+            "price": {
+              "fullPrice": 79900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK2E4",
+            "partNumber": "MK2E4ZP/A",
+            "price": {
+              "fullPrice": 79900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK2F4",
+            "partNumber": "MK2F4ZP/A",
+            "price": {
+              "fullPrice": 87900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK2G4",
+            "partNumber": "MK2G4ZP/A",
+            "price": {
+              "fullPrice": 87900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK2H4",
+            "partNumber": "MK2H4ZP/A",
+            "price": {
+              "fullPrice": 103900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK2J4",
+            "partNumber": "MK2J4ZP/A",
+            "price": {
+              "fullPrice": 103900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2K4",
+            "partNumber": "MK2K4ZP/A",
+            "price": {
+              "fullPrice": 127900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2L4",
+            "partNumber": "MK2L4ZP/A",
+            "price": {
+              "fullPrice": 127900
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "MY",
+        "currency": "MYR",
+        "base": "https://www.apple.com/my/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "MYR",
+        "products": [
+          {
+            "sku": "MJRP4",
+            "partNumber": "MJRP4X/A",
+            "price": {
+              "fullPrice": 5499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Black"
+          },
+          {
+            "sku": "MJRT4",
+            "partNumber": "MJRT4X/A",
+            "price": {
+              "fullPrice": 5499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJRW4",
+            "partNumber": "MJRW4X/A",
+            "price": {
+              "fullPrice": 6499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Burgundy"
+          },
+          {
+            "sku": "MJRX4",
+            "partNumber": "MJRX4X/A",
+            "price": {
+              "fullPrice": 6499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Glacier"
+          },
+          {
+            "sku": "MJRY4",
+            "partNumber": "MJRY4X/A",
+            "price": {
+              "fullPrice": 8499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJT24",
+            "partNumber": "MJT24X/A",
+            "price": {
+              "fullPrice": 8499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Glacier"
+          },
+          {
+            "sku": "MJT34",
+            "partNumber": "MJT34X/A",
+            "price": {
+              "fullPrice": 11499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJT64",
+            "partNumber": "MJT64X/A",
+            "price": {
+              "fullPrice": 11499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Glacier"
+          },
+          {
+            "sku": "MJXP4",
+            "partNumber": "MJXP4X/A",
+            "price": {
+              "fullPrice": 5999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXN4",
+            "partNumber": "MJXN4X/A",
+            "price": {
+              "fullPrice": 5999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Black"
+          },
+          {
+            "sku": "MJXT4",
+            "partNumber": "MJXT4X/A",
+            "price": {
+              "fullPrice": 6999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXW4",
+            "partNumber": "MJXW4X/A",
+            "price": {
+              "fullPrice": 6999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJY04",
+            "partNumber": "MJY04X/A",
+            "price": {
+              "fullPrice": 8999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJY14",
+            "partNumber": "MJY14X/A",
+            "price": {
+              "fullPrice": 8999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Glacier"
+          },
+          {
+            "sku": "MJY54",
+            "partNumber": "MJY54X/A",
+            "price": {
+              "fullPrice": 11999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Glacier"
+          },
+          {
+            "sku": "MJY44",
+            "partNumber": "MJY44X/A",
+            "price": {
+              "fullPrice": 11999
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Burgundy"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "MY",
+        "currency": "MYR",
+        "base": "https://www.apple.com/my/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "MYR",
+        "products": [
+          {
+            "sku": "MK2D4",
+            "partNumber": "MK2D4X/A",
+            "price": {
+              "fullPrice": 9499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK2E4",
+            "partNumber": "MK2E4X/A",
+            "price": {
+              "fullPrice": 9499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK2F4",
+            "partNumber": "MK2F4X/A",
+            "price": {
+              "fullPrice": 10499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK2G4",
+            "partNumber": "MK2G4X/A",
+            "price": {
+              "fullPrice": 10499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK2H4",
+            "partNumber": "MK2H4X/A",
+            "price": {
+              "fullPrice": 12499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK2J4",
+            "partNumber": "MK2J4X/A",
+            "price": {
+              "fullPrice": 12499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2K4",
+            "partNumber": "MK2K4X/A",
+            "price": {
+              "fullPrice": 15499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2L4",
+            "partNumber": "MK2L4X/A",
+            "price": {
+              "fullPrice": 15499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "CA",
+        "currency": "CAD",
+        "base": "https://www.apple.com/ca/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "CAD",
+        "products": [
+          {
+            "sku": "MJR84",
+            "partNumber": "MJR84VC/A",
+            "price": {
+              "fullPrice": 1749
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJR64",
+            "partNumber": "MJR64VC/A",
+            "price": {
+              "fullPrice": 1749
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Silver"
+          },
+          {
+            "sku": "MJR94",
+            "partNumber": "MJR94VC/A",
+            "price": {
+              "fullPrice": 2049
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Black"
+          },
+          {
+            "sku": "MJRC4",
+            "partNumber": "MJRC4VC/A",
+            "price": {
+              "fullPrice": 2049
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Silver"
+          },
+          {
+            "sku": "MJRF4",
+            "partNumber": "MJRF4VC/A",
+            "price": {
+              "fullPrice": 2649
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJRG4",
+            "partNumber": "MJRG4VC/A",
+            "price": {
+              "fullPrice": 2649
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Silver"
+          },
+          {
+            "sku": "MJRK4",
+            "partNumber": "MJRK4VC/A",
+            "price": {
+              "fullPrice": 3549
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJRL4",
+            "partNumber": "MJRL4VC/A",
+            "price": {
+              "fullPrice": 3549
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Silver"
+          },
+          {
+            "sku": "MJX74",
+            "partNumber": "MJX74VC/A",
+            "price": {
+              "fullPrice": 1899
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Burgundy"
+          },
+          {
+            "sku": "MJX64",
+            "partNumber": "MJX64VC/A",
+            "price": {
+              "fullPrice": 1899
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXD4",
+            "partNumber": "MJXD4VC/A",
+            "price": {
+              "fullPrice": 2199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJX94",
+            "partNumber": "MJX94VC/A",
+            "price": {
+              "fullPrice": 2199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXG4",
+            "partNumber": "MJXG4VC/A",
+            "price": {
+              "fullPrice": 2799
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJXF4",
+            "partNumber": "MJXF4VC/A",
+            "price": {
+              "fullPrice": 2799
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Silver"
+          },
+          {
+            "sku": "MJXK4",
+            "partNumber": "MJXK4VC/A",
+            "price": {
+              "fullPrice": 3699
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Silver"
+          },
+          {
+            "sku": "MJXJ4",
+            "partNumber": "MJXJ4VC/A",
+            "price": {
+              "fullPrice": 3699
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Black"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "CA",
+        "currency": "CAD",
+        "base": "https://www.apple.com/ca/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "CAD",
+        "products": [
+          {
+            "sku": "MK244",
+            "partNumber": "MK244VC/A",
+            "price": {
+              "fullPrice": 2999
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK254",
+            "partNumber": "MK254VC/A",
+            "price": {
+              "fullPrice": 2999
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK264",
+            "partNumber": "MK264VC/A",
+            "price": {
+              "fullPrice": 3299
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK274",
+            "partNumber": "MK274VC/A",
+            "price": {
+              "fullPrice": 3299
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK284",
+            "partNumber": "MK284VC/A",
+            "price": {
+              "fullPrice": 3899
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK294",
+            "partNumber": "MK294VC/A",
+            "price": {
+              "fullPrice": 3899
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2A4",
+            "partNumber": "MK2A4VC/A",
+            "price": {
+              "fullPrice": 4799
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2C4",
+            "partNumber": "MK2C4VC/A",
+            "price": {
+              "fullPrice": 4799
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "GB",
+        "currency": "GBP",
+        "base": "https://www.apple.com/uk/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "GBP",
+        "products": [
+          {
+            "sku": "MJRP4",
+            "partNumber": "MJRP4QN/A",
+            "price": {
+              "fullPrice": 1199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Black"
+          },
+          {
+            "sku": "MJRT4",
+            "partNumber": "MJRT4QN/A",
+            "price": {
+              "fullPrice": 1199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJRW4",
+            "partNumber": "MJRW4QN/A",
+            "price": {
+              "fullPrice": 1399
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Burgundy"
+          },
+          {
+            "sku": "MJRX4",
+            "partNumber": "MJRX4QN/A",
+            "price": {
+              "fullPrice": 1399
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Glacier"
+          },
+          {
+            "sku": "MJRY4",
+            "partNumber": "MJRY4QN/A",
+            "price": {
+              "fullPrice": 1799
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJT24",
+            "partNumber": "MJT24QN/A",
+            "price": {
+              "fullPrice": 1799
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Glacier"
+          },
+          {
+            "sku": "MJT34",
+            "partNumber": "MJT34QN/A",
+            "price": {
+              "fullPrice": 2399
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJT64",
+            "partNumber": "MJT64QN/A",
+            "price": {
+              "fullPrice": 2399
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Glacier"
+          },
+          {
+            "sku": "MJXP4",
+            "partNumber": "MJXP4QN/A",
+            "price": {
+              "fullPrice": 1299
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXN4",
+            "partNumber": "MJXN4QN/A",
+            "price": {
+              "fullPrice": 1299
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Black"
+          },
+          {
+            "sku": "MJXT4",
+            "partNumber": "MJXT4QN/A",
+            "price": {
+              "fullPrice": 1499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXW4",
+            "partNumber": "MJXW4QN/A",
+            "price": {
+              "fullPrice": 1499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJY04",
+            "partNumber": "MJY04QN/A",
+            "price": {
+              "fullPrice": 1899
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJY14",
+            "partNumber": "MJY14QN/A",
+            "price": {
+              "fullPrice": 1899
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Glacier"
+          },
+          {
+            "sku": "MJY54",
+            "partNumber": "MJY54QN/A",
+            "price": {
+              "fullPrice": 2499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Glacier"
+          },
+          {
+            "sku": "MJY44",
+            "partNumber": "MJY44QN/A",
+            "price": {
+              "fullPrice": 2499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Burgundy"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "GB",
+        "currency": "GBP",
+        "base": "https://www.apple.com/uk/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "GBP",
+        "products": [
+          {
+            "sku": "MK2D4",
+            "partNumber": "MK2D4QN/A",
+            "price": {
+              "fullPrice": 1999
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK2E4",
+            "partNumber": "MK2E4QN/A",
+            "price": {
+              "fullPrice": 1999
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK2F4",
+            "partNumber": "MK2F4QN/A",
+            "price": {
+              "fullPrice": 2199
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK2G4",
+            "partNumber": "MK2G4QN/A",
+            "price": {
+              "fullPrice": 2199
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK2H4",
+            "partNumber": "MK2H4QN/A",
+            "price": {
+              "fullPrice": 2599
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK2J4",
+            "partNumber": "MK2J4QN/A",
+            "price": {
+              "fullPrice": 2599
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2K4",
+            "partNumber": "MK2K4QN/A",
+            "price": {
+              "fullPrice": 3199
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2L4",
+            "partNumber": "MK2L4QN/A",
+            "price": {
+              "fullPrice": 3199
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "DE",
+        "currency": "EUR",
+        "base": "https://www.apple.com/de/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "EUR",
+        "products": [
+          {
+            "sku": "MJRP4",
+            "partNumber": "MJRP4ZD/A",
+            "price": {
+              "fullPrice": 1449
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Black"
+          },
+          {
+            "sku": "MJRT4",
+            "partNumber": "MJRT4ZD/A",
+            "price": {
+              "fullPrice": 1449
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJRW4",
+            "partNumber": "MJRW4ZD/A",
+            "price": {
+              "fullPrice": 1699
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Burgundy"
+          },
+          {
+            "sku": "MJRX4",
+            "partNumber": "MJRX4ZD/A",
+            "price": {
+              "fullPrice": 1699
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Glacier"
+          },
+          {
+            "sku": "MJRY4",
+            "partNumber": "MJRY4ZD/A",
+            "price": {
+              "fullPrice": 2199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJT24",
+            "partNumber": "MJT24ZD/A",
+            "price": {
+              "fullPrice": 2199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Glacier"
+          },
+          {
+            "sku": "MJT34",
+            "partNumber": "MJT34ZD/A",
+            "price": {
+              "fullPrice": 2949
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJT64",
+            "partNumber": "MJT64ZD/A",
+            "price": {
+              "fullPrice": 2949
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Glacier"
+          },
+          {
+            "sku": "MJXP4",
+            "partNumber": "MJXP4ZD/A",
+            "price": {
+              "fullPrice": 1599
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXN4",
+            "partNumber": "MJXN4ZD/A",
+            "price": {
+              "fullPrice": 1599
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Black"
+          },
+          {
+            "sku": "MJXT4",
+            "partNumber": "MJXT4ZD/A",
+            "price": {
+              "fullPrice": 1849
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXW4",
+            "partNumber": "MJXW4ZD/A",
+            "price": {
+              "fullPrice": 1849
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJY04",
+            "partNumber": "MJY04ZD/A",
+            "price": {
+              "fullPrice": 2349
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJY14",
+            "partNumber": "MJY14ZD/A",
+            "price": {
+              "fullPrice": 2349
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Glacier"
+          },
+          {
+            "sku": "MJY54",
+            "partNumber": "MJY54ZD/A",
+            "price": {
+              "fullPrice": 3099
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Glacier"
+          },
+          {
+            "sku": "MJY44",
+            "partNumber": "MJY44ZD/A",
+            "price": {
+              "fullPrice": 3099
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Burgundy"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "DE",
+        "currency": "EUR",
+        "base": "https://www.apple.com/de/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "EUR",
+        "products": [
+          {
+            "sku": "MK2D4",
+            "partNumber": "MK2D4ZD/A",
+            "price": {
+              "fullPrice": 2299
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK2E4",
+            "partNumber": "MK2E4ZD/A",
+            "price": {
+              "fullPrice": 2299
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK2F4",
+            "partNumber": "MK2F4ZD/A",
+            "price": {
+              "fullPrice": 2549
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK2G4",
+            "partNumber": "MK2G4ZD/A",
+            "price": {
+              "fullPrice": 2549
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK2H4",
+            "partNumber": "MK2H4ZD/A",
+            "price": {
+              "fullPrice": 3049
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK2J4",
+            "partNumber": "MK2J4ZD/A",
+            "price": {
+              "fullPrice": 3049
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2K4",
+            "partNumber": "MK2K4ZD/A",
+            "price": {
+              "fullPrice": 3799
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2L4",
+            "partNumber": "MK2L4ZD/A",
+            "price": {
+              "fullPrice": 3799
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "FR",
+        "currency": "EUR",
+        "base": "https://www.apple.com/fr/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "EUR",
+        "products": [
+          {
+            "sku": "MJRP4",
+            "partNumber": "MJRP4F/A",
+            "price": {
+              "fullPrice": 1479
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Black"
+          },
+          {
+            "sku": "MJRT4",
+            "partNumber": "MJRT4F/A",
+            "price": {
+              "fullPrice": 1479
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJRW4",
+            "partNumber": "MJRW4F/A",
+            "price": {
+              "fullPrice": 1729
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Burgundy"
+          },
+          {
+            "sku": "MJRX4",
+            "partNumber": "MJRX4F/A",
+            "price": {
+              "fullPrice": 1729
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Glacier"
+          },
+          {
+            "sku": "MJRY4",
+            "partNumber": "MJRY4F/A",
+            "price": {
+              "fullPrice": 2229
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJT24",
+            "partNumber": "MJT24F/A",
+            "price": {
+              "fullPrice": 2229
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Glacier"
+          },
+          {
+            "sku": "MJT34",
+            "partNumber": "MJT34F/A",
+            "price": {
+              "fullPrice": 2979
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJT64",
+            "partNumber": "MJT64F/A",
+            "price": {
+              "fullPrice": 2979
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Glacier"
+          },
+          {
+            "sku": "MJXP4",
+            "partNumber": "MJXP4F/A",
+            "price": {
+              "fullPrice": 1629
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXN4",
+            "partNumber": "MJXN4F/A",
+            "price": {
+              "fullPrice": 1629
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Black"
+          },
+          {
+            "sku": "MJXT4",
+            "partNumber": "MJXT4F/A",
+            "price": {
+              "fullPrice": 1879
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXW4",
+            "partNumber": "MJXW4F/A",
+            "price": {
+              "fullPrice": 1879
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJY04",
+            "partNumber": "MJY04F/A",
+            "price": {
+              "fullPrice": 2379
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJY14",
+            "partNumber": "MJY14F/A",
+            "price": {
+              "fullPrice": 2379
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Glacier"
+          },
+          {
+            "sku": "MJY54",
+            "partNumber": "MJY54F/A",
+            "price": {
+              "fullPrice": 3129
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Glacier"
+          },
+          {
+            "sku": "MJY44",
+            "partNumber": "MJY44F/A",
+            "price": {
+              "fullPrice": 3129
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Burgundy"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "FR",
+        "currency": "EUR",
+        "base": "https://www.apple.com/fr/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "EUR",
+        "products": [
+          {
+            "sku": "MK2D4",
+            "partNumber": "MK2D4F/A",
+            "price": {
+              "fullPrice": 2339
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK2E4",
+            "partNumber": "MK2E4F/A",
+            "price": {
+              "fullPrice": 2339
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK2F4",
+            "partNumber": "MK2F4F/A",
+            "price": {
+              "fullPrice": 2589
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK2G4",
+            "partNumber": "MK2G4F/A",
+            "price": {
+              "fullPrice": 2589
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK2H4",
+            "partNumber": "MK2H4F/A",
+            "price": {
+              "fullPrice": 3089
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK2J4",
+            "partNumber": "MK2J4F/A",
+            "price": {
+              "fullPrice": 3089
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2K4",
+            "partNumber": "MK2K4F/A",
+            "price": {
+              "fullPrice": 3839
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2L4",
+            "partNumber": "MK2L4F/A",
+            "price": {
+              "fullPrice": 3839
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "AE",
+        "currency": "AED",
+        "base": "https://www.apple.com/ae/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-18-pro",
+        "models": [
+          "iphone-18-pro",
+          "iphone-18-pro-max"
+        ]
+      },
+      "metrics": {
+        "currency": "AED",
+        "products": [
+          {
+            "sku": "MJR84",
+            "partNumber": "MJR84AH/A",
+            "price": {
+              "fullPrice": 5099
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Glacier"
+          },
+          {
+            "sku": "MJR64",
+            "partNumber": "MJR64AH/A",
+            "price": {
+              "fullPrice": 5099
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 256GB Silver"
+          },
+          {
+            "sku": "MJR94",
+            "partNumber": "MJR94AH/A",
+            "price": {
+              "fullPrice": 5949
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Black"
+          },
+          {
+            "sku": "MJRC4",
+            "partNumber": "MJRC4AH/A",
+            "price": {
+              "fullPrice": 5949
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 512GB Silver"
+          },
+          {
+            "sku": "MJRF4",
+            "partNumber": "MJRF4AH/A",
+            "price": {
+              "fullPrice": 7649
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Black"
+          },
+          {
+            "sku": "MJRG4",
+            "partNumber": "MJRG4AH/A",
+            "price": {
+              "fullPrice": 7649
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 1TB Silver"
+          },
+          {
+            "sku": "MJRK4",
+            "partNumber": "MJRK4AH/A",
+            "price": {
+              "fullPrice": 10199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Black"
+          },
+          {
+            "sku": "MJRL4",
+            "partNumber": "MJRL4AH/A",
+            "price": {
+              "fullPrice": 10199
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro 2TB Silver"
+          },
+          {
+            "sku": "MJX74",
+            "partNumber": "MJX74AH/A",
+            "price": {
+              "fullPrice": 5499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Burgundy"
+          },
+          {
+            "sku": "MJX64",
+            "partNumber": "MJX64AH/A",
+            "price": {
+              "fullPrice": 5499
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 256GB Silver"
+          },
+          {
+            "sku": "MJXD4",
+            "partNumber": "MJXD4AH/A",
+            "price": {
+              "fullPrice": 6349
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Glacier"
+          },
+          {
+            "sku": "MJX94",
+            "partNumber": "MJX94AH/A",
+            "price": {
+              "fullPrice": 6349
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 512GB Black"
+          },
+          {
+            "sku": "MJXG4",
+            "partNumber": "MJXG4AH/A",
+            "price": {
+              "fullPrice": 8049
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Burgundy"
+          },
+          {
+            "sku": "MJXF4",
+            "partNumber": "MJXF4AH/A",
+            "price": {
+              "fullPrice": 8049
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 1TB Silver"
+          },
+          {
+            "sku": "MJXK4",
+            "partNumber": "MJXK4AH/A",
+            "price": {
+              "fullPrice": 10599
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Silver"
+          },
+          {
+            "sku": "MJXJ4",
+            "partNumber": "MJXJ4AH/A",
+            "price": {
+              "fullPrice": 10599
+            },
+            "category": "iphone",
+            "name": "iPhone 18 Pro Max 2TB Black"
+          }
+        ]
+      }
+    },
+    {
+      "market": {
+        "code": "AE",
+        "currency": "AED",
+        "base": "https://www.apple.com/ae/shop/buy-iphone"
+      },
+      "page": {
+        "slug": "iphone-duo",
+        "models": [
+          "iphone-duo"
+        ]
+      },
+      "metrics": {
+        "currency": "AED",
+        "products": [
+          {
+            "sku": "MK244",
+            "partNumber": "MK244AH/A",
+            "price": {
+              "fullPrice": 8499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Star White"
+          },
+          {
+            "sku": "MK254",
+            "partNumber": "MK254AH/A",
+            "price": {
+              "fullPrice": 8499
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 256GB Night Sky"
+          },
+          {
+            "sku": "MK264",
+            "partNumber": "MK264AH/A",
+            "price": {
+              "fullPrice": 9349
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Star White"
+          },
+          {
+            "sku": "MK274",
+            "partNumber": "MK274AH/A",
+            "price": {
+              "fullPrice": 9349
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 512GB Night Sky"
+          },
+          {
+            "sku": "MK284",
+            "partNumber": "MK284AH/A",
+            "price": {
+              "fullPrice": 11049
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Star White"
+          },
+          {
+            "sku": "MK294",
+            "partNumber": "MK294AH/A",
+            "price": {
+              "fullPrice": 11049
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 1TB Night Sky"
+          },
+          {
+            "sku": "MK2A4",
+            "partNumber": "MK2A4AH/A",
+            "price": {
+              "fullPrice": 13599
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Star White"
+          },
+          {
+            "sku": "MK2C4",
+            "partNumber": "MK2C4AH/A",
+            "price": {
+              "fullPrice": 13599
+            },
+            "category": "iphone",
+            "name": "iPhone Duo 2TB Night Sky"
+          }
+        ]
+      }
+    }
+  ]
+}

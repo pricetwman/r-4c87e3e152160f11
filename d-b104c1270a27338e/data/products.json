@@ -1,0 +1,98 @@
+{
+  "iphone-18-pro": {
+    "name": "iPhone 18 Pro",
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-finish-select-black-202609?wid=940&hei=1112&fmt=png-alpha&.v=ODB3TEdtbk8ybkd3clM3dWVML3VCWEQvUEQ2K0RlZDNJelh6T1hiakdBdytYcDJJakhmeWdzWGE3eWZweldlbU01ZlZDa0xRSGNsZGN2cGtrRCtsV0tMSEdWSm02WG9JS0VxaEpJQnZwSFF4aU04bVBaVGpXenUzcE1tZ0JTTWk",
+    "imageAlt": "iPhone 18 Pro 黑色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+    "imageFallback": "assets/images/iphone-18-pro.png",
+    "imageFallbackAlt": "iPhone 18 Pro 概念產品示意圖，DEMO，非 Apple 官方實機照片"
+  },
+  "iphone-18-pro-max": {
+    "name": "iPhone 18 Pro Max",
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-18-pro-max-finish-select-silver-202609?wid=940&hei=1112&fmt=png-alpha&.v=UmkydCsrWUVqOXF2VEM2dzB6cklhWUQ2cmRnWCtSNmVDd2t4cWxWSnIvNWtvNWRUSnBraGdtbVpoaEhCcStEZ1JIMnJUYkhxeFlQUFF6U1JnK1dZZmROL1VCcUxMZGhIeWpHS1Y3Y0ZmQnB1TDcrSFk1dTh4UW5LRWFTUk84MUg",
+    "imageAlt": "iPhone 18 Pro Max 銀色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-18-pro",
+    "imageFallback": "assets/images/iphone-18-pro-max.png",
+    "imageFallbackAlt": "iPhone 18 Pro Max 概念產品示意圖，DEMO，非 Apple 官方實機照片"
+  },
+  "iphone-duo": {
+    "name": "iPhone Duo",
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB",
+      "2TB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-duo-finish-select-star-white-202609?wid=940&hei=1112&fmt=png-alpha&.v=L2FnUkNTRm43ZDRCREFsdzlaeThka1hsOUZkQmZFRkQ2eEh0dEM0bVFwVjZIYUZiOEZCU1dSYmlzT2FMVUpPY1gyaWxBVG1PRTU2YzhCN2c2emhzWHZ5ZTZTY3RKM0U0VzN2UzRGTGtzQ3F1ZFJUNEY5WjZkU21Ua0dNWEh2Zy8",
+    "imageAlt": "iPhone Duo 星光白色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-duo",
+    "imageFallback": "assets/images/iphone-duo.png",
+    "imageFallbackAlt": "iPhone Duo 概念產品示意圖，DEMO，非 Apple 官方實機照片"
+  },
+  "iphone-17": {
+    "name": "iPhone 17",
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17-finish-select-lavender-202509?wid=940&hei=1112&fmt=png-alpha&.v=WGdCRlQ0YVlqbTdXTEkxRnVQb0oxcUlHcmZkMUl0cGRrS2JXMzRCZWNFbjhHWUFlMUJvbytPdDJaMXVCZ3hWK3RiU3ZsS20zTE4xZTVGRXpySFRUZjluL3VnaUoydUJLUWY1MlJxVXJkdE9nTjBNL1BYejRqWm1odnRPTHAwVSs",
+    "imageAlt": "iPhone 17 薰衣草紫色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17"
+  },
+  "iphone-17e": {
+    "name": "iPhone 17e",
+    "storage": [
+      "256GB",
+      "512GB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-17e-finish-select-softpink-202603?wid=940&hei=1112&fmt=png-alpha&.v=WEw4Mm90aWNESFd6NGRURjZZeWczVk9TZFRrcStTaFFFUEl5NVBQdnhTYkNUSFNLYWFuaDRXMkRQUHBjWXViYk01ZlZDa0xRSGNsZGN2cGtrRCtsV0FDcEplT2d6SndHT0tJeEpWbGxTK0FFQ1drQnYvT2p3OWwzT3FGNDJwWVY",
+    "imageAlt": "iPhone 17e 柔粉色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-17e"
+  },
+  "iphone-air": {
+    "name": "iPhone Air",
+    "storage": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-air-finish-select-skyblue-202509?wid=940&hei=1112&fmt=png-alpha&.v=NUpaQVl1bitSNmJWZUdKdi9QZHhsSTc3enVEMmlQcEEzL2lLSlkvSU10ZjhHWUFlMUJvbytPdDJaMXVCZ3hWK3RiU3ZsS20zTE4xZTVGRXpySFRUZnhKQnpOUmx4ZGN3eXhkWm5HTmRKRHZPNk91aGNwTzdaL0RpcGZCOEdDdXU",
+    "imageAlt": "iPhone Air 天藍色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-air"
+  },
+  "iphone-16": {
+    "name": "iPhone 16",
+    "storage": [
+      "128GB"
+    ],
+    "image": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-16-ultramarine-select-202409?wid=940&hei=1112&fmt=png-alpha&.v=aWI5aGdudlZCalMrV3A2QU5NeUlaUS9CQ2hhaHB3cVp0QldQUmg0R3F6NURreFIvckpMM0RHVW1acklsZHpObDJpdkFkeXRGenVzczlmSUZMYlgrMHBJQzFqek53VEVRN3NLQnhtYWpXTnYrNUdoc3VSMTlEQkd4dTVQR01rblc",
+    "imageAlt": "iPhone 16 湛海藍色，Apple 官方產品圖片",
+    "officialUrls": {},
+    "imageSource": "Apple 官方網站",
+    "imageSourceUrl": "https://www.apple.com/tw/shop/buy-iphone/iphone-16"
+  }
+}

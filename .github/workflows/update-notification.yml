@@ -1,0 +1,50 @@
+name: Notify daily update status
+
+on:
+  workflow_run:
+    workflows: ['Update Apple prices daily']
+    types: [completed]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: apple-price-update-notification
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    if: >-
+      github.event.workflow_run.head_branch == github.event.repository.default_branch &&
+      github.event.workflow_run.head_repository.full_name == github.repository &&
+      contains(fromJSON('["schedule", "workflow_dispatch"]'), github.event.workflow_run.event)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      actions: read
+      issues: write
+    steps:
+      # Always execute trusted default-branch code, never a triggering run's checkout or artifact.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: '24'
+          package-manager-cache: false
+      - name: Download optional collection reports
+        continue-on-error: true
+        uses: actions/download-artifact@3e5f45b2cfb9172054b4087a40e8e0b5a5461e7c # v8.0.1
+        with:
+          name: update-reports-${{ github.event.workflow_run.run_attempt }}
+          path: ${{ runner.temp }}/update-reports
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+      - name: Create, update or close administrator notification
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          UPDATE_REPORT_DIR: ${{ runner.temp }}/update-reports
+          UPDATE_NOTIFICATION_ASSIGNEE: ${{ vars.UPDATE_NOTIFICATION_ASSIGNEE }}
+        run: node d-b104c1270a27338e/scripts/update-notification.mjs
