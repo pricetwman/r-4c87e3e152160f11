@@ -1,12 +1,12 @@
 {
   "updated": "2026-09-11",
   "checkedAt": "2026-09-11T14:23:40.058Z",
-  "lastAttemptAt": "2026-09-11T14:23:50.069Z",
+  "lastAttemptAt": "2026-09-11T15:59:20.169Z",
   "demo": false,
   "base": "TWD",
   "source": "frankfurter",
   "sourceUrl": "https://frankfurter.dev/",
-  "status": "current",
+  "status": "stale",
   "notice": "Frankfurter 彙整央行每日參考匯率；1 單位外幣折合新台幣，非銀行現鈔或信用卡成交匯率。",
   "rates": {
     "TWD": 1,
@@ -30,7 +30,7 @@
     "TWD": {
       "rate": 1,
       "date": "2026-09-11",
-      "checkedAt": "2026-09-11T14:23:50.069Z",
+      "checkedAt": "2026-09-11T15:59:20.169Z",
       "status": "current",
       "source": "identity",
       "sourceUrl": null
@@ -41,8 +41,9 @@
       "checkedAt": "2026-09-11T14:23:40.058Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/USD/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated USD/TWD reference rate"
     },
     "JPY": {
       "rate": 0.20494,
@@ -50,8 +51,9 @@
       "checkedAt": "2026-09-11T14:23:40.745Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/JPY/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated JPY/TWD reference rate"
     },
     "HKD": {
       "rate": 4.0243,
@@ -59,8 +61,9 @@
       "checkedAt": "2026-09-11T14:23:41.439Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/HKD/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated HKD/TWD reference rate"
     },
     "SGD": {
       "rate": 24.937,
@@ -68,8 +71,9 @@
       "checkedAt": "2026-09-11T14:23:42.118Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/SGD/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated SGD/TWD reference rate"
     },
     "CNY": {
       "rate": 4.71,
@@ -77,8 +81,9 @@
       "checkedAt": "2026-09-11T14:23:42.849Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/CNY/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated CNY/TWD reference rate"
     },
     "AUD": {
       "rate": 22.686,
@@ -86,8 +91,9 @@
       "checkedAt": "2026-09-11T14:23:43.520Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/AUD/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated AUD/TWD reference rate"
     },
     "KRW": {
       "rate": 0.02351,
@@ -95,8 +101,9 @@
       "checkedAt": "2026-09-11T14:23:44.214Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/KRW/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated KRW/TWD reference rate"
     },
     "THB": {
       "rate": 0.95667,
@@ -104,8 +111,9 @@
       "checkedAt": "2026-09-11T14:23:44.917Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/THB/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated THB/TWD reference rate"
     },
     "MYR": {
       "rate": 7.7663,
@@ -113,8 +121,9 @@
       "checkedAt": "2026-09-11T14:23:45.626Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/MYR/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated MYR/TWD reference rate"
     },
     "CAD": {
       "rate": 22.846,
@@ -122,8 +131,9 @@
       "checkedAt": "2026-09-11T14:23:46.338Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/CAD/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated CAD/TWD reference rate"
     },
     "GBP": {
       "rate": 42.757,
@@ -131,8 +141,9 @@
       "checkedAt": "2026-09-11T14:23:47.034Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/GBP/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated GBP/TWD reference rate"
     },
     "EUR": {
       "rate": 36.709,
@@ -140,8 +151,9 @@
       "checkedAt": "2026-09-11T14:23:47.713Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/EUR/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated EUR/TWD reference rate"
     },
     "AED": {
       "rate": 8.5992,
@@ -149,8 +161,9 @@
       "checkedAt": "2026-09-11T14:23:48.406Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/AED/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated AED/TWD reference rate"
     },
     "VND": {
       "rate": 0.00122,
@@ -158,8 +171,9 @@
       "checkedAt": "2026-09-11T14:23:49.130Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/VND/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated VND/TWD reference rate"
     },
     "INR": {
       "rate": 0.33097,
@@ -167,8 +181,9 @@
       "checkedAt": "2026-09-11T14:23:49.819Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/INR/TWD",
-      "status": "current",
-      "lastAttemptAt": "2026-09-11T14:23:50.069Z"
+      "status": "stale",
+      "lastAttemptAt": "2026-09-11T15:59:20.169Z",
+      "error": "Invalid or outdated INR/TWD reference rate"
     }
   }
 }
