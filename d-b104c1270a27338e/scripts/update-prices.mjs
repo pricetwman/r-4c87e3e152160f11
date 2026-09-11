@@ -8,7 +8,8 @@ import {catalogPages} from './catalog-pages.mjs';
 
 const COUNTRIES_PER_BATCH = 3;
 const REQUEST_DELAY_MS = 5000;
-const BATCH_DELAY_MS = 120000;
+const BATCH_DELAY_MS = 30000;
+const RECOVERY_BATCH_DELAY_MS = 120000;
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const pause = ms => new Promise(done => setTimeout(done, ms));
@@ -24,7 +25,7 @@ class AppleResponseError extends Error {
   }
 }
 
-async function requestPage(url, fetchImpl, wait) {
+async function requestPage(url, fetchImpl, wait, onRequestError) {
   if (!permitted(new URL(url))) throw new Error('Untrusted source URL');
   for (let attempt = 0; attempt < 3; attempt++) {
     try {
@@ -40,6 +41,7 @@ async function requestPage(url, fetchImpl, wait) {
       if (text.length > 15000000) throw new Error('Unexpected page size');
       return text;
     } catch (error) {
+      onRequestError();
       if (attempt === 2 || error.stopCollection || (error.status >= 400 && error.status < 500)) throw error;
       await wait(15000 * (attempt + 1));
     }
@@ -63,22 +65,29 @@ export async function collectPrices({products, markets, pages = catalogPages(pro
   let observations = [];
   let failures = [];
   let stopped = null;
+  let batchHadError = false;
   for (const [index, task] of tasks.entries()) {
     if (stopped) {
       failures = [...failures, ...pageFailures({...task, products,
         error: new Error(`Collection stopped after ${stopped}; this page was not requested`)})];
       continue;
     }
-    if (index > 0) await wait(task.batchStart ? BATCH_DELAY_MS : REQUEST_DELAY_MS);
+    if (index > 0) {
+      const cooldown = batchHadError ? RECOVERY_BATCH_DELAY_MS : BATCH_DELAY_MS;
+      await wait(task.batchStart ? cooldown : REQUEST_DELAY_MS);
+    }
+    if (task.batchStart) batchHadError = false;
     if (task.batchStart) onProgress(`Apple batch ${task.batch + 1}/${Math.ceil(markets.length / COUNTRIES_PER_BATCH)}: ${markets
       .slice(task.batch * COUNTRIES_PER_BATCH, (task.batch + 1) * COUNTRIES_PER_BATCH).map(market => market.code).join(', ')}`);
     try {
-      const html = await requestPage(task.sourceUrl, fetchImpl, wait);
+      const html = await requestPage(task.sourceUrl, fetchImpl, wait, () => { batchHadError = true; });
       const result = parseApplePrices(html, {market: task.market, page: task.page, products});
+      if (result.failures.length > 0) batchHadError = true;
       const checkedAt = new Date().toISOString();
       observations = [...observations, ...result.observations.map(item => ({...item, checkedAt}))];
       failures = [...failures, ...result.failures];
     } catch (error) {
+      batchHadError = true;
       failures = [...failures, ...pageFailures({...task, products, error})];
       if (error.stopCollection) {
         stopped = error.message;

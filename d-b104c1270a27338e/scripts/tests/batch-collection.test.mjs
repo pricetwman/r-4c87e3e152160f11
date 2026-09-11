@@ -7,7 +7,7 @@ const html = `<script id="metrics">${JSON.stringify({data:{currency:'TWD',produc
   {name:'iPhone 17 256GB Black',category:'iphone',sku:'X',partNumber:'X/A',price:{fullPrice:32900}},
   {name:'iPhone 16 128GB Black',category:'iphone',sku:'Y',partNumber:'Y/A',price:{fullPrice:29900}}
 ]}})}</script>`;
-test('serial batches wait five seconds per page and two minutes every three countries',async()=>{
+test('serial batches wait five seconds per page and thirty seconds every three healthy countries',async()=>{
   const events=[];
   const result=await collectPrices({products,markets,pause:async ms=>events.push(ms),fetchImpl:async url=>{
     events.push(url);return new Response(html);
@@ -17,7 +17,7 @@ test('serial batches wait five seconds per page and two minutes every three coun
   assert.equal(typeof events[0],'string');
   assert.equal(typeof events.at(-1),'string');
   const waits=events.filter(event=>typeof event==='number');
-  assert.deepEqual(waits,Array.from({length:13},(_,index)=>(index+1)%6===0?120000:5000));
+  assert.deepEqual(waits,Array.from({length:13},(_,index)=>(index+1)%6===0?30000:5000));
 });
 for(const status of [403,429]) test(`HTTP ${status} stops all further Apple requests and records untouched variants`,async()=>{
   let requests=0;
@@ -44,4 +44,26 @@ test('server-requested cooldown stops the run instead of retrying before Retry-A
   }});
   assert.equal(requests,1);
   assert.equal(result.failures.length,14);
+});
+
+test('a transient failure keeps the next batch cooldown conservative, then resets after a healthy batch',async()=>{
+  let requests=0;const waits=[];
+  const result=await collectPrices({products,markets,pause:async ms=>waits.push(ms),fetchImpl:async()=>{
+    requests+=1;return requests===1?new Response('unavailable',{status:503}):new Response(html);
+  }});
+  assert.equal(result.observations.length,14);
+  assert.equal(result.failures.length,0);
+  assert.deepEqual(waits.filter(ms=>ms!==5000),[15000,120000,30000]);
+});
+
+for (const [label, response] of [
+  ['malformed page', '<html>Temporarily unavailable</html>'],
+  ['missing variant', html.replace('iPhone 17 256GB Black', 'iPhone 17 512GB Black')]
+]) test(`HTTP 200 ${label} retains conservative cooldown`,async()=>{
+  let requests=0;const waits=[];
+  const result=await collectPrices({products,markets,pause:async ms=>waits.push(ms),fetchImpl:async()=>{
+    requests+=1;return new Response(requests===1?response:html);
+  }});
+  assert.equal(result.failures.length,1);
+  assert.deepEqual(waits.filter(ms=>ms!==5000),[120000,30000]);
 });
