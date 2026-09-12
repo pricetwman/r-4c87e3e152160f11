@@ -134,5 +134,104 @@
     "popular": true,
     "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
     "appleUrl": "https://www.apple.com/in/shop/buy-iphone"
+  },
+  "TR": {
+    "name": "土耳其",
+    "flag": "🇹🇷",
+    "currency": "TRY",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/tr/shop/buy-iphone",
+    "directSales": true
+  },
+  "PH": {
+    "name": "菲律賓",
+    "flag": "🇵🇭",
+    "currency": "PHP",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/ph/shop/buy-iphone",
+    "directSales": true
+  },
+  "NZ": {
+    "name": "紐西蘭",
+    "flag": "🇳🇿",
+    "currency": "NZD",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/nz/shop/buy-iphone",
+    "directSales": true
+  },
+  "CH": {
+    "name": "瑞士",
+    "flag": "🇨🇭",
+    "currency": "CHF",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/ch-de/shop/buy-iphone",
+    "directSales": true
+  },
+  "NL": {
+    "name": "荷蘭",
+    "flag": "🇳🇱",
+    "currency": "EUR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/nl/shop/buy-iphone",
+    "directSales": true
+  },
+  "IE": {
+    "name": "愛爾蘭",
+    "flag": "🇮🇪",
+    "currency": "EUR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/ie/shop/buy-iphone",
+    "directSales": true
+  },
+  "GR": {
+    "name": "希臘",
+    "flag": "🇬🇷",
+    "currency": "EUR",
+    "popular": true,
+    "taxNote": "Apple 官網僅提供授權經銷商資訊，未提供當地直售價格",
+    "appleUrl": "https://www.apple.com/gr/buy/",
+    "directSales": false
+  },
+  "PT": {
+    "name": "葡萄牙",
+    "flag": "🇵🇹",
+    "currency": "EUR",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/pt/shop/buy-iphone",
+    "directSales": true
+  },
+  "EG": {
+    "name": "埃及",
+    "flag": "🇪🇬",
+    "currency": "EGP",
+    "popular": true,
+    "taxNote": "Apple 官網僅提供授權經銷商資訊，未提供當地直售價格",
+    "appleUrl": "https://www.apple.com/eg/buy/",
+    "directSales": false
+  },
+  "BR": {
+    "name": "巴西",
+    "flag": "🇧🇷",
+    "currency": "BRL",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/br/shop/buy-iphone",
+    "directSales": true
+  },
+  "MX": {
+    "name": "墨西哥",
+    "flag": "🇲🇽",
+    "currency": "MXN",
+    "popular": true,
+    "taxNote": "Apple 當地官網空機全額；稅金依官網與結帳條件",
+    "appleUrl": "https://www.apple.com/mx/shop/buy-iphone",
+    "directSales": true
   }
 }

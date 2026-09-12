@@ -31,6 +31,11 @@ function validHistoryPoint(point, currency, now, date) {
 }
 
 function currentEntry({found, old, failure, market, model, product, now}) {
+  if (market.directSales === false) return {
+    price: null, checkedAt: null, source: 'apple', sourceUrl: market.base,
+    currency: market.currency, status: 'unavailable',
+    error: 'Apple does not publish direct online retail prices in this market'
+  };
   if (found) return {
     price: found.price, checkedAt: found.checkedAt ?? now, source: 'apple',
     sourceUrl: found.sourceUrl, currency: market.currency,

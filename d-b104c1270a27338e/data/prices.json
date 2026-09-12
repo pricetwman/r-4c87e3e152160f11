@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T20:42:28.245Z",
+  "updated": "2026-09-12T02:31:58.496Z",
   "observationDate": "2026-09-12",
   "demo": false,
   "notice": "Apple 官方空機全額售價；美國價格未含州／地方銷售稅。失敗時保留上次成功紀錄並標示過期。",
@@ -157,6 +157,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 137999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 94990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 2549,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1199,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1479,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1489,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1499,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 11999,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 29999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "512GB": {
@@ -312,6 +411,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 154999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 110990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 2949,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1399,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1729,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1739,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1749,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 13499,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 34999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "1TB": {
@@ -467,6 +665,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 188999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 142990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 3749,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1799,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 2229,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 2239,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 2249,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 16499,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 44999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "2TB": {
@@ -622,6 +919,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 243999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 189990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 4949,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 2399,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 2979,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 2989,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 2999,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 20999,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 59999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   },
@@ -779,6 +1175,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 149999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 99990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 2749,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1299,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1629,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1639,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1649,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 12999,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 31999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "512GB": {
@@ -934,6 +1429,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 166999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 115990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 3149,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1499,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1879,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1889,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1899,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 14499,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 36999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "1TB": {
@@ -1089,6 +1683,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 200999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 147990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 3949,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1899,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 2379,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 2389,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 2399,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 17499,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 46999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "2TB": {
@@ -1244,6 +1937,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 255999,
+        "checkedAt": "2026-09-12T02:24:21.665Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-18-pro",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 194990,
+        "checkedAt": "2026-09-12T02:25:10.118Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-18-pro",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 5149,
+        "checkedAt": "2026-09-12T02:25:57.689Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-18-pro",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 2499,
+        "checkedAt": "2026-09-12T02:27:15.955Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-18-pro",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 3129,
+        "checkedAt": "2026-09-12T02:28:06.869Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 3139,
+        "checkedAt": "2026-09-12T02:28:52.081Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 3149,
+        "checkedAt": "2026-09-12T02:29:59.842Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-18-pro",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 21999,
+        "checkedAt": "2026-09-12T02:30:46.339Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-18-pro",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 61999,
+        "checkedAt": "2026-09-12T02:31:22.061Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-18-pro",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   },
@@ -1401,6 +2193,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 229999,
+        "checkedAt": "2026-09-12T02:24:28.453Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-duo",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 159990,
+        "checkedAt": "2026-09-12T02:25:17.491Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-duo",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 4199,
+        "checkedAt": "2026-09-12T02:26:06.983Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-duo",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1999,
+        "checkedAt": "2026-09-12T02:27:23.288Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-duo",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 2339,
+        "checkedAt": "2026-09-12T02:28:13.849Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 2369,
+        "checkedAt": "2026-09-12T02:28:57.718Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 2399,
+        "checkedAt": "2026-09-12T02:30:06.866Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 21999,
+        "checkedAt": "2026-09-12T02:30:52.003Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-duo",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 47999,
+        "checkedAt": "2026-09-12T02:31:27.350Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-duo",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "512GB": {
@@ -1556,6 +2447,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 246999,
+        "checkedAt": "2026-09-12T02:24:28.453Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-duo",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 175990,
+        "checkedAt": "2026-09-12T02:25:17.491Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-duo",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 4599,
+        "checkedAt": "2026-09-12T02:26:06.983Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-duo",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 2199,
+        "checkedAt": "2026-09-12T02:27:23.288Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-duo",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 2589,
+        "checkedAt": "2026-09-12T02:28:13.849Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 2619,
+        "checkedAt": "2026-09-12T02:28:57.718Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 2649,
+        "checkedAt": "2026-09-12T02:30:06.866Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 23499,
+        "checkedAt": "2026-09-12T02:30:52.003Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-duo",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 52999,
+        "checkedAt": "2026-09-12T02:31:27.350Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-duo",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "1TB": {
@@ -1711,6 +2701,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 280999,
+        "checkedAt": "2026-09-12T02:24:28.453Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-duo",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 207990,
+        "checkedAt": "2026-09-12T02:25:17.491Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-duo",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 5399,
+        "checkedAt": "2026-09-12T02:26:06.983Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-duo",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 2599,
+        "checkedAt": "2026-09-12T02:27:23.288Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-duo",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 3089,
+        "checkedAt": "2026-09-12T02:28:13.849Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 3119,
+        "checkedAt": "2026-09-12T02:28:57.718Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 3149,
+        "checkedAt": "2026-09-12T02:30:06.866Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 26499,
+        "checkedAt": "2026-09-12T02:30:52.003Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-duo",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 62999,
+        "checkedAt": "2026-09-12T02:31:27.350Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-duo",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "2TB": {
@@ -1866,6 +2955,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 335999,
+        "checkedAt": "2026-09-12T02:24:28.453Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-duo",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 254990,
+        "checkedAt": "2026-09-12T02:25:17.491Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-duo",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 6599,
+        "checkedAt": "2026-09-12T02:26:06.983Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-duo",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 3199,
+        "checkedAt": "2026-09-12T02:27:23.288Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-duo",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 3839,
+        "checkedAt": "2026-09-12T02:28:13.849Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 3869,
+        "checkedAt": "2026-09-12T02:28:57.718Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 3899,
+        "checkedAt": "2026-09-12T02:30:06.866Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-duo",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 30999,
+        "checkedAt": "2026-09-12T02:30:52.003Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-duo",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 77999,
+        "checkedAt": "2026-09-12T02:31:27.350Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-duo",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   },
@@ -2023,6 +3211,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 99999,
+        "checkedAt": "2026-09-12T02:24:36.298Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-17",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 69990,
+        "checkedAt": "2026-09-12T02:25:24.834Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-17",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 1899,
+        "checkedAt": "2026-09-12T02:26:14.617Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-17",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 899,
+        "checkedAt": "2026-09-12T02:27:31.821Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1119,
+        "checkedAt": "2026-09-12T02:28:23.341Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-17",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1129,
+        "checkedAt": "2026-09-12T02:29:04.999Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-17",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1139,
+        "checkedAt": "2026-09-12T02:30:14.130Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-17",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 8299,
+        "checkedAt": "2026-09-12T02:30:57.317Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-17",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 21999,
+        "checkedAt": "2026-09-12T02:31:32.622Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-17",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "512GB": {
@@ -2178,6 +3465,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 116999,
+        "checkedAt": "2026-09-12T02:24:36.298Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-17",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 85990,
+        "checkedAt": "2026-09-12T02:25:24.834Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-17",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 2299,
+        "checkedAt": "2026-09-12T02:26:14.617Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-17",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1099,
+        "checkedAt": "2026-09-12T02:27:31.821Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1369,
+        "checkedAt": "2026-09-12T02:28:23.341Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-17",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1379,
+        "checkedAt": "2026-09-12T02:29:04.999Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-17",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1389,
+        "checkedAt": "2026-09-12T02:30:14.130Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-17",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 9799,
+        "checkedAt": "2026-09-12T02:30:57.317Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-17",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 26999,
+        "checkedAt": "2026-09-12T02:31:32.622Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-17",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   },
@@ -2335,6 +3721,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 72999,
+        "checkedAt": "2026-09-12T02:24:42.833Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-17e",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 54990,
+        "checkedAt": "2026-09-12T02:25:32.252Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-17e",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 1449,
+        "checkedAt": "2026-09-12T02:26:23.267Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-17e",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 699,
+        "checkedAt": "2026-09-12T02:27:39.514Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17e",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 869,
+        "checkedAt": "2026-09-12T02:28:32.176Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-17e",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 879,
+        "checkedAt": "2026-09-12T02:29:12.595Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-17e",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 889,
+        "checkedAt": "2026-09-12T02:30:22.138Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-17e",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 5999,
+        "checkedAt": "2026-09-12T02:31:04.864Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-17e",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 16999,
+        "checkedAt": "2026-09-12T02:31:39.416Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-17e",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "512GB": {
@@ -2490,6 +3975,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 89999,
+        "checkedAt": "2026-09-12T02:24:42.833Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-17e",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 70990,
+        "checkedAt": "2026-09-12T02:25:32.252Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-17e",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 1849,
+        "checkedAt": "2026-09-12T02:26:23.267Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-17e",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 899,
+        "checkedAt": "2026-09-12T02:27:39.514Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-17e",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1119,
+        "checkedAt": "2026-09-12T02:28:32.176Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-17e",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1129,
+        "checkedAt": "2026-09-12T02:29:12.595Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-17e",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1139,
+        "checkedAt": "2026-09-12T02:30:22.138Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-17e",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 7499,
+        "checkedAt": "2026-09-12T02:31:04.864Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-17e",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 21999,
+        "checkedAt": "2026-09-12T02:31:39.416Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-17e",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   },
@@ -2647,6 +4231,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 122999,
+        "checkedAt": "2026-09-12T02:24:50.905Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-air",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 84990,
+        "checkedAt": "2026-09-12T02:25:40.388Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-air",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 2299,
+        "checkedAt": "2026-09-12T02:26:32.570Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-air",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1099,
+        "checkedAt": "2026-09-12T02:27:47.809Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-air",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1329,
+        "checkedAt": "2026-09-12T02:28:39.380Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1339,
+        "checkedAt": "2026-09-12T02:29:21.899Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1349,
+        "checkedAt": "2026-09-12T02:30:29.330Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 10999,
+        "checkedAt": "2026-09-12T02:31:11.392Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-air",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 25999,
+        "checkedAt": "2026-09-12T02:31:45.688Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-air",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "512GB": {
@@ -2802,6 +4485,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 139999,
+        "checkedAt": "2026-09-12T02:24:50.905Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-air",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 100990,
+        "checkedAt": "2026-09-12T02:25:40.388Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-air",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 2699,
+        "checkedAt": "2026-09-12T02:26:32.570Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-air",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1299,
+        "checkedAt": "2026-09-12T02:27:47.809Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-air",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1579,
+        "checkedAt": "2026-09-12T02:28:39.380Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1589,
+        "checkedAt": "2026-09-12T02:29:21.899Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1599,
+        "checkedAt": "2026-09-12T02:30:29.330Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 12499,
+        "checkedAt": "2026-09-12T02:31:11.392Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-air",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 30999,
+        "checkedAt": "2026-09-12T02:31:45.688Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-air",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     },
     "1TB": {
@@ -2957,6 +4739,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 173999,
+        "checkedAt": "2026-09-12T02:24:50.905Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-air",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 132990,
+        "checkedAt": "2026-09-12T02:25:40.388Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-air",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 3499,
+        "checkedAt": "2026-09-12T02:26:32.570Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-air",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 1699,
+        "checkedAt": "2026-09-12T02:27:47.809Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-air",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 2079,
+        "checkedAt": "2026-09-12T02:28:39.380Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 2089,
+        "checkedAt": "2026-09-12T02:29:21.899Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 2099,
+        "checkedAt": "2026-09-12T02:30:29.330Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-air",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 15499,
+        "checkedAt": "2026-09-12T02:31:11.392Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-air",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 40999,
+        "checkedAt": "2026-09-12T02:31:45.688Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-air",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   },
@@ -3114,6 +4995,105 @@
         "currency": "INR",
         "status": "current",
         "lastAttemptAt": "2026-09-11T20:42:28.245Z"
+      },
+      "TR": {
+        "price": 85999,
+        "checkedAt": "2026-09-12T02:24:58.184Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/tr/shop/buy-iphone/iphone-16",
+        "currency": "TRY",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "PH": {
+        "price": 62990,
+        "checkedAt": "2026-09-12T02:25:49.850Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ph/shop/buy-iphone/iphone-16",
+        "currency": "PHP",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NZ": {
+        "price": 1699,
+        "checkedAt": "2026-09-12T02:26:42.280Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nz/shop/buy-iphone/iphone-16",
+        "currency": "NZD",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "CH": {
+        "price": 799,
+        "checkedAt": "2026-09-12T02:27:55.930Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ch-de/shop/buy-iphone/iphone-16",
+        "currency": "CHF",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "NL": {
+        "price": 1019,
+        "checkedAt": "2026-09-12T02:28:44.756Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/nl/shop/buy-iphone/iphone-16",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "IE": {
+        "price": 1029,
+        "checkedAt": "2026-09-12T02:29:29.465Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/ie/shop/buy-iphone/iphone-16",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "GR": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/gr/buy/",
+        "currency": "EUR",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "PT": {
+        "price": 1039,
+        "checkedAt": "2026-09-12T02:30:38.086Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/pt/shop/buy-iphone/iphone-16",
+        "currency": "EUR",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "EG": {
+        "price": null,
+        "checkedAt": null,
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/eg/buy/",
+        "currency": "EGP",
+        "status": "unavailable",
+        "error": "Apple does not publish direct online retail prices in this market"
+      },
+      "BR": {
+        "price": 6999,
+        "checkedAt": "2026-09-12T02:31:16.783Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/br/shop/buy-iphone/iphone-16",
+        "currency": "BRL",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
+      },
+      "MX": {
+        "price": 18999,
+        "checkedAt": "2026-09-12T02:31:50.989Z",
+        "source": "apple",
+        "sourceUrl": "https://www.apple.com/mx/shop/buy-iphone/iphone-16",
+        "currency": "MXN",
+        "status": "current",
+        "lastAttemptAt": "2026-09-12T02:31:58.496Z"
       }
     }
   }

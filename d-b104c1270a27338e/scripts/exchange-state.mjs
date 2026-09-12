@@ -1,6 +1,7 @@
 export const CURRENCIES = Object.freeze([
   'USD', 'JPY', 'HKD', 'SGD', 'CNY', 'AUD',
-  'KRW', 'THB', 'MYR', 'CAD', 'GBP', 'EUR', 'AED', 'VND', 'INR'
+  'KRW', 'THB', 'MYR', 'CAD', 'GBP', 'EUR', 'AED', 'VND', 'INR',
+  'TRY', 'PHP', 'NZD', 'CHF', 'EGP', 'BRL', 'MXN'
 ]);
 const DAY = 86400000;
 const SOURCE = 'https://frankfurter.dev/';

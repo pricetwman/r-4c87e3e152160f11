@@ -52,7 +52,7 @@ for (const [model, expected] of Object.entries(catalog)) {
         const entry = prices[model][storage][code];
         assert.equal(entry.source, 'apple');
         assert.equal(entry.currency, country.currency);
-        assert.equal(entry.sourceUrl, `${country.appleUrl}/${model}`);
+        assert.equal(entry.sourceUrl, country.directSales === false ? country.appleUrl : `${country.appleUrl}/${model}`);
         assert.ok(['current', 'stale', 'unavailable'].includes(entry.status));
         const points = history[model][storage][code];
         if (entry.status === 'unavailable') {

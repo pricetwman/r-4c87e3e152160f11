@@ -57,7 +57,8 @@ function pageFailures({page, products, market, sourceUrl, error}) {
 
 export async function collectPrices({products, markets, pages = catalogPages(products), fetchImpl = fetch,
   pause: wait = pause, onProgress = () => {}}) {
-  const tasks = markets.flatMap((market, marketIndex) => pages.map((page, pageIndex) => ({
+  const directMarkets = markets.filter(market => market.directSales !== false);
+  const tasks = directMarkets.flatMap((market, marketIndex) => pages.map((page, pageIndex) => ({
     market, page, batch: Math.floor(marketIndex / COUNTRIES_PER_BATCH),
     batchStart: marketIndex % COUNTRIES_PER_BATCH === 0 && pageIndex === 0,
     sourceUrl: `${market.base}/${page.slug}`
@@ -77,7 +78,7 @@ export async function collectPrices({products, markets, pages = catalogPages(pro
       await wait(task.batchStart ? cooldown : REQUEST_DELAY_MS);
     }
     if (task.batchStart) batchHadError = false;
-    if (task.batchStart) onProgress(`Apple batch ${task.batch + 1}/${Math.ceil(markets.length / COUNTRIES_PER_BATCH)}: ${markets
+    if (task.batchStart) onProgress(`Apple batch ${task.batch + 1}/${Math.ceil(directMarkets.length / COUNTRIES_PER_BATCH)}: ${directMarkets
       .slice(task.batch * COUNTRIES_PER_BATCH, (task.batch + 1) * COUNTRIES_PER_BATCH).map(market => market.code).join(', ')}`);
     try {
       const html = await requestPage(task.sourceUrl, fetchImpl, wait, () => { batchHadError = true; });
@@ -122,7 +123,7 @@ async function readInputs(root, output) {
     readJson(resolve(output, 'price-history.json'), {})
   ]);
   const markets = Object.entries(countries).map(([code, country]) => ({
-    code, currency: country.currency, base: country.appleUrl
+    code, currency: country.currency, base: country.appleUrl, directSales: country.directSales !== false
   }));
   return {products, markets, previousPrices, previousHistory};
 }

@@ -29,5 +29,6 @@ test('daily price updater passes every configured market to the collector', asyn
   for (const market of observed) {
     assert.equal(market.base, countries[market.code].appleUrl);
     assert.equal(market.currency, countries[market.code].currency);
+    assert.equal(market.directSales, countries[market.code].directSales !== false);
   }
 });
