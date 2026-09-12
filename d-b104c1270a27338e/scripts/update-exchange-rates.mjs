@@ -9,7 +9,10 @@ async function requestRate(currency, fetchImpl, wait, now) {
   const sourceUrl = exchangeSourceUrl(currency);
   for (let attempt = 0; attempt < 2; attempt++) {
     try {
-      const response = await fetchImpl(sourceUrl, {
+      // Bound the query to the same UTC calendar used by date validation.
+      // Keep the provider's returned date (including previous business days).
+      const date = new Date(now()).toISOString().slice(0, 10);
+      const response = await fetchImpl(`${sourceUrl}?date=${date}`, {
         headers: {'Accept': 'application/json', 'User-Agent': 'iPhonePriceObserver/1.0'},
         signal: AbortSignal.timeout(20000), redirect: 'error'
       });

@@ -57,6 +57,23 @@ test('global date uses oldest currency observation and ignores failed new input'
  assert.equal(result.rates.updated,'2026-09-10');
  assert.throws(()=>merge({observations:[{...observation(),rate:0}]}));
 });
+test('collector bounds the provider date even when latest endpoint returns future rates',async()=>{
+ const result=await collectExchangeRates({currencies:['USD'],now:()=>now,pause:async()=>{},fetchImpl:async url=>{
+  const date=new URL(url).searchParams.get('date');
+  return new Response(JSON.stringify({...payload,date:date === '2026-09-11' ? '2026-09-11' : '2026-09-13'}));
+ }});
+ assert.equal(result.failures.length,0);
+ assert.equal(result.observations[0].date,'2026-09-11');
+ assert.equal(result.observations[0].checkedAt,now);
+});
+test('bounded queries still reject future data and retain actual holiday reference dates',async()=>{
+ for (const date of ['2026-09-13','2026-09-10']) {
+  const result=await collectExchangeRates({currencies:['USD'],now:()=>now,pause:async()=>{},
+   fetchImpl:async()=>new Response(JSON.stringify({...payload,date}))});
+  assert.equal(result.failures.length,date === '2026-09-13' ? 1 : 0);
+  if (result.observations.length) assert.equal(result.observations[0].date,date);
+ }
+});
 test('collector retries transient failures and isolates failed pairs',async()=>{
  let count=0;
  const result=await collectExchangeRates({currencies:['USD','JPY'],now:()=>now,pause:async()=>{},fetchImpl:async url=>{
