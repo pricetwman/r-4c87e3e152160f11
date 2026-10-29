@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "demo": false,
   "source": "frankfurter",
   "sourceUrl": "https://frankfurter.dev/",
@@ -306,6 +306,13 @@
       "checkedAt": "2026-10-28T00:08:04.200Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/USD/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 32.437,
+      "checkedAt": "2026-10-29T00:20:55.728Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/USD/TWD"
     }
   ],
   "JPY": [
@@ -607,6 +614,13 @@
       "date": "2026-10-27",
       "rate": 0.20629,
       "checkedAt": "2026-10-28T00:08:04.874Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/JPY/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.20544,
+      "checkedAt": "2026-10-29T00:20:56.196Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/JPY/TWD"
     }
@@ -912,6 +926,13 @@
       "checkedAt": "2026-10-28T00:08:05.680Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/HKD/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 4.1318,
+      "checkedAt": "2026-10-29T00:20:56.664Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/HKD/TWD"
     }
   ],
   "SGD": [
@@ -1213,6 +1234,13 @@
       "date": "2026-10-27",
       "rate": 25.394,
       "checkedAt": "2026-10-28T00:08:06.249Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/SGD/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 25.314,
+      "checkedAt": "2026-10-29T00:20:57.141Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/SGD/TWD"
     }
@@ -1518,6 +1546,13 @@
       "checkedAt": "2026-10-28T00:08:07.520Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/CNY/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 4.866,
+      "checkedAt": "2026-10-29T00:20:57.598Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/CNY/TWD"
     }
   ],
   "AUD": [
@@ -1819,6 +1854,13 @@
       "date": "2026-10-27",
       "rate": 22.831,
       "checkedAt": "2026-10-28T00:08:08.192Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/AUD/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 22.794,
+      "checkedAt": "2026-10-29T00:20:58.065Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/AUD/TWD"
     }
@@ -2124,6 +2166,13 @@
       "checkedAt": "2026-10-28T00:08:09.064Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/KRW/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.024337,
+      "checkedAt": "2026-10-29T00:20:58.517Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/KRW/TWD"
     }
   ],
   "THB": [
@@ -2425,6 +2474,13 @@
       "date": "2026-10-27",
       "rate": 0.96285,
       "checkedAt": "2026-10-28T00:08:09.770Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/THB/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.96025,
+      "checkedAt": "2026-10-29T00:20:58.984Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/THB/TWD"
     }
@@ -2730,6 +2786,13 @@
       "checkedAt": "2026-10-28T00:08:10.318Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/MYR/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 7.9452,
+      "checkedAt": "2026-10-29T00:20:59.429Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/MYR/TWD"
     }
   ],
   "CAD": [
@@ -3031,6 +3094,13 @@
       "date": "2026-10-27",
       "rate": 23.207,
       "checkedAt": "2026-10-28T00:08:11.045Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/CAD/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 23.109,
+      "checkedAt": "2026-10-29T00:20:59.914Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/CAD/TWD"
     }
@@ -3336,6 +3406,13 @@
       "checkedAt": "2026-10-28T00:08:11.790Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/GBP/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 43.187,
+      "checkedAt": "2026-10-29T00:21:00.377Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/GBP/TWD"
     }
   ],
   "EUR": [
@@ -3637,6 +3714,13 @@
       "date": "2026-10-27",
       "rate": 36.344,
       "checkedAt": "2026-10-28T00:08:12.683Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/EUR/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 36.191,
+      "checkedAt": "2026-10-29T00:21:00.864Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/EUR/TWD"
     }
@@ -3942,6 +4026,13 @@
       "checkedAt": "2026-10-28T00:08:13.660Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/AED/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 8.8325,
+      "checkedAt": "2026-10-29T00:21:01.323Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/AED/TWD"
     }
   ],
   "VND": [
@@ -4243,6 +4334,13 @@
       "date": "2026-10-27",
       "rate": 0.0012598,
       "checkedAt": "2026-10-28T00:08:14.751Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/VND/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.0012574,
+      "checkedAt": "2026-10-29T00:21:01.796Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/VND/TWD"
     }
@@ -4548,6 +4646,13 @@
       "checkedAt": "2026-10-28T00:08:15.465Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/INR/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.341,
+      "checkedAt": "2026-10-29T00:21:02.257Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/INR/TWD"
     }
   ],
   "TRY": [
@@ -4842,6 +4947,13 @@
       "date": "2026-10-27",
       "rate": 0.65324,
       "checkedAt": "2026-10-28T00:08:16.454Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/TRY/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.65125,
+      "checkedAt": "2026-10-29T00:21:02.745Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/TRY/TWD"
     }
@@ -5140,6 +5252,13 @@
       "checkedAt": "2026-10-28T00:08:17.234Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/PHP/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.50691,
+      "checkedAt": "2026-10-29T00:21:03.207Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/PHP/TWD"
     }
   ],
   "NZD": [
@@ -5434,6 +5553,13 @@
       "date": "2026-10-27",
       "rate": 18.5101,
       "checkedAt": "2026-10-28T00:08:17.919Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/NZD/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 18.3411,
+      "checkedAt": "2026-10-29T00:21:03.688Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/NZD/TWD"
     }
@@ -5732,6 +5858,13 @@
       "checkedAt": "2026-10-28T00:08:18.630Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/CHF/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 39.132,
+      "checkedAt": "2026-10-29T00:21:04.162Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/CHF/TWD"
     }
   ],
   "EGP": [
@@ -6026,6 +6159,13 @@
       "date": "2026-10-27",
       "rate": 0.58007,
       "checkedAt": "2026-10-28T00:08:19.408Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/EGP/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 0.57851,
+      "checkedAt": "2026-10-29T00:21:04.632Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/EGP/TWD"
     }
@@ -6324,6 +6464,13 @@
       "checkedAt": "2026-10-28T00:08:20.380Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/BRL/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 6.0616,
+      "checkedAt": "2026-10-29T00:21:05.103Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/BRL/TWD"
     }
   ],
   "MXN": [
@@ -6618,6 +6765,13 @@
       "date": "2026-10-27",
       "rate": 1.7458,
       "checkedAt": "2026-10-28T00:08:20.880Z",
+      "source": "frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rate/MXN/TWD"
+    },
+    {
+      "date": "2026-10-28",
+      "rate": 1.7395,
+      "checkedAt": "2026-10-29T00:21:05.563Z",
       "source": "frankfurter",
       "sourceUrl": "https://api.frankfurter.dev/v2/rate/MXN/TWD"
     }
